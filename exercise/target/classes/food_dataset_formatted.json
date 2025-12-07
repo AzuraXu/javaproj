@@ -1,0 +1,8902 @@
+[
+  {
+    "FoodItem": "Applesauce",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "Canned Apricots",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Canned Blackberries",
+    "Cals_per100grams": 92
+  },
+  {
+    "FoodItem": "Canned Blueberries",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Canned Cherries",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Canned Cranberries",
+    "Cals_per100grams": 178
+  },
+  {
+    "FoodItem": "Canned Crushed Pineapple",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Canned Figs",
+    "Cals_per100grams": 107
+  },
+  {
+    "FoodItem": "Canned Fruit Cocktail",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Canned Fruit Salad",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Canned Gooseberries",
+    "Cals_per100grams": 73
+  },
+  {
+    "FoodItem": "Canned Grapefruit",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Canned Grapes",
+    "Cals_per100grams": 76
+  },
+  {
+    "FoodItem": "Canned Mandarin Oranges",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Canned Mango",
+    "Cals_per100grams": 65
+  },
+  {
+    "FoodItem": "Canned Mangosteen",
+    "Cals_per100grams": 73
+  },
+  {
+    "FoodItem": "Canned Mixed Fruit",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Canned Morello Cherries",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Canned Oranges",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "Canned Peaches",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Canned Pears",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Canned Pineapple",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Canned Plums",
+    "Cals_per100grams": 58
+  },
+  {
+    "FoodItem": "Canned Raspberries",
+    "Cals_per100grams": 91
+  },
+  {
+    "FoodItem": "Canned Sliced Pineapple",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Canned Sour Cherries",
+    "Cals_per100grams": 114
+  },
+  {
+    "FoodItem": "Canned Strawberries",
+    "Cals_per100grams": 92
+  },
+  {
+    "FoodItem": "Canned Tangerines",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Dried Fruit",
+    "Cals_per100grams": 243
+  },
+  {
+    "FoodItem": "Acai",
+    "Cals_per100grams": 70
+  },
+  {
+    "FoodItem": "Apple",
+    "Cals_per100grams": 52
+  },
+  {
+    "FoodItem": "Applesauce",
+    "Cals_per100grams": 68
+  },
+  {
+    "FoodItem": "Apricot",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Avocado",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Banana",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Blackberries",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Blood Oranges",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Blueberries",
+    "Cals_per100grams": 57
+  },
+  {
+    "FoodItem": "Cantaloupe",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Cherries",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Clementine",
+    "Cals_per100grams": 47
+  },
+  {
+    "FoodItem": "Cranberries",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Currants",
+    "Cals_per100grams": 56
+  },
+  {
+    "FoodItem": "Custard Apple",
+    "Cals_per100grams": 101
+  },
+  {
+    "FoodItem": "Dates",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Figs",
+    "Cals_per100grams": 74
+  },
+  {
+    "FoodItem": "Fruit salad",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Grapes",
+    "Cals_per100grams": 69
+  },
+  {
+    "FoodItem": "Greengage",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Guava",
+    "Cals_per100grams": 68
+  },
+  {
+    "FoodItem": "Jackfruit",
+    "Cals_per100grams": 95
+  },
+  {
+    "FoodItem": "Jujube",
+    "Cals_per100grams": 79
+  },
+  {
+    "FoodItem": "Kiwi",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Lemon",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Lime",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Lychees",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Mandarin Oranges",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Mango",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Minneola",
+    "Cals_per100grams": 64
+  },
+  {
+    "FoodItem": "Mulberries",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Nectarine",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Olives",
+    "Cals_per100grams": 115
+  },
+  {
+    "FoodItem": "Orange",
+    "Cals_per100grams": 47
+  },
+  {
+    "FoodItem": "Papaya",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Passion Fruit",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Peach",
+    "Cals_per100grams": 39
+  },
+  {
+    "FoodItem": "Pear",
+    "Cals_per100grams": 57
+  },
+  {
+    "FoodItem": "Persimmon",
+    "Cals_per100grams": 127
+  },
+  {
+    "FoodItem": "Physalis",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Pineapple",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Plantains",
+    "Cals_per100grams": 122
+  },
+  {
+    "FoodItem": "Plum",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Pomegranate",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Quince",
+    "Cals_per100grams": 57
+  },
+  {
+    "FoodItem": "Raisins",
+    "Cals_per100grams": 299
+  },
+  {
+    "FoodItem": "Rambutan",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Raspberries",
+    "Cals_per100grams": 52
+  },
+  {
+    "FoodItem": "Rhubarb",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Starfruit",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Strawberries",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Tamarind",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Tangerine",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Watermelon",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Acerola",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Asian Pear",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Avocado",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Banana",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Breadfruit",
+    "Cals_per100grams": 103
+  },
+  {
+    "FoodItem": "Cantaloupe Melon",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Casaba Melon",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Cherimoya",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Dragon Fruit",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Durian",
+    "Cals_per100grams": 147
+  },
+  {
+    "FoodItem": "Feijoa",
+    "Cals_per100grams": 55
+  },
+  {
+    "FoodItem": "Galia Melon",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Grapefruit",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Guava",
+    "Cals_per100grams": 68
+  },
+  {
+    "FoodItem": "Honeydew",
+    "Cals_per100grams": 36
+  },
+  {
+    "FoodItem": "Jackfruit",
+    "Cals_per100grams": 95
+  },
+  {
+    "FoodItem": "Kiwi",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Kumquat",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Lychee",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Mandarin Oranges",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Mango",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Mangosteen",
+    "Cals_per100grams": 73
+  },
+  {
+    "FoodItem": "Maracuya",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Maraschino Cherries",
+    "Cals_per100grams": 165
+  },
+  {
+    "FoodItem": "Muskmelon",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Noni",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Passion Fruit",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Pineapple",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Pink Grapefruit",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Plantain",
+    "Cals_per100grams": 122
+  },
+  {
+    "FoodItem": "Pomegranate",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Pomelo",
+    "Cals_per100grams": 38
+  },
+  {
+    "FoodItem": "Prickly Pear",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Rambutan",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Sapodilla",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Soursop Fruit",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Star Fruit",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Tamarind",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Watermelon",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "All-blue Potatoes",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Baked Potato",
+    "Cals_per100grams": 93
+  },
+  {
+    "FoodItem": "Boiled Potatoes",
+    "Cals_per100grams": 87
+  },
+  {
+    "FoodItem": "Cassava",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Croquettes",
+    "Cals_per100grams": 127
+  },
+  {
+    "FoodItem": "Dumpling Dough",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Dumplings",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "French Fingerling Potatoes",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "French Fries",
+    "Cals_per100grams": 312
+  },
+  {
+    "FoodItem": "Fried Potatoes",
+    "Cals_per100grams": 312
+  },
+  {
+    "FoodItem": "Gnocchi",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Japanese Sweet Potatoes",
+    "Cals_per100grams": 87
+  },
+  {
+    "FoodItem": "Marrow Dumplings",
+    "Cals_per100grams": 424
+  },
+  {
+    "FoodItem": "Mashed Potatoes",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Norland Red Potatoes",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Omelette",
+    "Cals_per100grams": 154
+  },
+  {
+    "FoodItem": "Potato",
+    "Cals_per100grams": 77
+  },
+  {
+    "FoodItem": "Potato Dumpling",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Potato Fritter",
+    "Cals_per100grams": 185
+  },
+  {
+    "FoodItem": "Potato Gratin",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "Potato Pancakes",
+    "Cals_per100grams": 268
+  },
+  {
+    "FoodItem": "Potato Salad",
+    "Cals_per100grams": 143
+  },
+  {
+    "FoodItem": "Potato Starch",
+    "Cals_per100grams": 331
+  },
+  {
+    "FoodItem": "Potato Sticks",
+    "Cals_per100grams": 522
+  },
+  {
+    "FoodItem": "Potato Waffles",
+    "Cals_per100grams": 167
+  },
+  {
+    "FoodItem": "Potato Wedges",
+    "Cals_per100grams": 123
+  },
+  {
+    "FoodItem": "Potatoes au Gratin",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "Purple Majesty Potatoes",
+    "Cals_per100grams": 72
+  },
+  {
+    "FoodItem": "Red Gold Potatoes",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Red Potatoes",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Roast Potatoes",
+    "Cals_per100grams": 149
+  },
+  {
+    "FoodItem": "Rosemary Potatoes",
+    "Cals_per100grams": 93
+  },
+  {
+    "FoodItem": "Rösti",
+    "Cals_per100grams": 138
+  },
+  {
+    "FoodItem": "Russet Potatoes",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Russian Banana Potatoes",
+    "Cals_per100grams": 67
+  },
+  {
+    "FoodItem": "Sweet Potato",
+    "Cals_per100grams": 92
+  },
+  {
+    "FoodItem": "White Potatoes",
+    "Cals_per100grams": 94
+  },
+  {
+    "FoodItem": "Yams",
+    "Cals_per100grams": 116
+  },
+  {
+    "FoodItem": "Yukon Gold Potatoes",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Artichoke",
+    "Cals_per100grams": 47
+  },
+  {
+    "FoodItem": "Arugula",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Asparagus",
+    "Cals_per100grams": 20
+  },
+  {
+    "FoodItem": "Aubergine",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Beetroot",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Bell Pepper",
+    "Cals_per100grams": 20
+  },
+  {
+    "FoodItem": "Black Olives",
+    "Cals_per100grams": 115
+  },
+  {
+    "FoodItem": "Broccoli",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Brussels Sprouts",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Cabbage",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Capsicum",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Carrot",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Cauliflower",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Celery",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Chard",
+    "Cals_per100grams": 19
+  },
+  {
+    "FoodItem": "Cherry Tomato",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Chicory",
+    "Cals_per100grams": 72
+  },
+  {
+    "FoodItem": "Chinese Cabbage",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Chives",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Collard Greens",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Corn",
+    "Cals_per100grams": 365
+  },
+  {
+    "FoodItem": "Courgette",
+    "Cals_per100grams": 17
+  },
+  {
+    "FoodItem": "Creamed Spinach",
+    "Cals_per100grams": 74
+  },
+  {
+    "FoodItem": "Cucumber",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Eggplant",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Endive",
+    "Cals_per100grams": 17
+  },
+  {
+    "FoodItem": "Fennel",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Garlic",
+    "Cals_per100grams": 149
+  },
+  {
+    "FoodItem": "Gherkin",
+    "Cals_per100grams": 14
+  },
+  {
+    "FoodItem": "Gourd",
+    "Cals_per100grams": 14
+  },
+  {
+    "FoodItem": "Green Beans",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Green Olives",
+    "Cals_per100grams": 115
+  },
+  {
+    "FoodItem": "Green Onion",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Horseradish",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Kale",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Kohlrabi",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Kumara",
+    "Cals_per100grams": 86
+  },
+  {
+    "FoodItem": "Leek",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Lettuce",
+    "Cals_per100grams": 15
+  },
+  {
+    "FoodItem": "Mushrooms",
+    "Cals_per100grams": 22
+  },
+  {
+    "FoodItem": "Mustard Greens",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Nori",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Okra",
+    "Cals_per100grams": 33
+  },
+  {
+    "FoodItem": "Olives",
+    "Cals_per100grams": 115
+  },
+  {
+    "FoodItem": "Onion",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Parsnips",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Peas",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Pepper",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Potato",
+    "Cals_per100grams": 77
+  },
+  {
+    "FoodItem": "Pumpkin",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "Radishes",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Red Cabbage",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Rutabaga",
+    "Cals_per100grams": 38
+  },
+  {
+    "FoodItem": "Shallots",
+    "Cals_per100grams": 72
+  },
+  {
+    "FoodItem": "Spinach",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Squash",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Sweet Potato",
+    "Cals_per100grams": 86
+  },
+  {
+    "FoodItem": "Tomato",
+    "Cals_per100grams": 18
+  },
+  {
+    "FoodItem": "Turnip Greens",
+    "Cals_per100grams": 20
+  },
+  {
+    "FoodItem": "Turnips",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Wasabi",
+    "Cals_per100grams": 109
+  },
+  {
+    "FoodItem": "Winter Squash",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Zucchini",
+    "Cals_per100grams": 17
+  },
+  {
+    "FoodItem": "Arby’s Grand Turkey Club",
+    "Cals_per100grams": 210
+  },
+  {
+    "FoodItem": "Arby’s Reuben",
+    "Cals_per100grams": 208
+  },
+  {
+    "FoodItem": "Arby’s Roast Beef Classic",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Arby’s Roast Beef Max",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "BBQ Rib",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Bean Burrito",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Big N’ Tasty",
+    "Cals_per100grams": 223
+  },
+  {
+    "FoodItem": "Bratwurst",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "Burger King Angry Whopper",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Burger King Double Whopper",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Burger King Double Whopper with Cheese",
+    "Cals_per100grams": 249
+  },
+  {
+    "FoodItem": "Burger King Original Chicken Sandwich",
+    "Cals_per100grams": 301
+  },
+  {
+    "FoodItem": "Burger King Premium Alaskan Fish Sandwich",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Burger King Triple Whopper",
+    "Cals_per100grams": 269
+  },
+  {
+    "FoodItem": "Burger King Whopper",
+    "Cals_per100grams": 231
+  },
+  {
+    "FoodItem": "Burger King Whopper Jr.",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Burger King Whopper with Cheese",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Cheeseburger",
+    "Cals_per100grams": 263
+  },
+  {
+    "FoodItem": "Chicken Breast",
+    "Cals_per100grams": 163
+  },
+  {
+    "FoodItem": "Chicken Fajita",
+    "Cals_per100grams": 147
+  },
+  {
+    "FoodItem": "Chicken McNuggets",
+    "Cals_per100grams": 302
+  },
+  {
+    "FoodItem": "Chicken Nuggets",
+    "Cals_per100grams": 296
+  },
+  {
+    "FoodItem": "Chicken Pizziola",
+    "Cals_per100grams": 141
+  },
+  {
+    "FoodItem": "Chicken Sandwich",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Chicken Teriyaki Sandwich",
+    "Cals_per100grams": 138
+  },
+  {
+    "FoodItem": "Chicken Wings",
+    "Cals_per100grams": 324
+  },
+  {
+    "FoodItem": "Chop Suey",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Curly Fries",
+    "Cals_per100grams": 311
+  },
+  {
+    "FoodItem": "Double Cheeseburger",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Egg Roll",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Falafel",
+    "Cals_per100grams": 335
+  },
+  {
+    "FoodItem": "Filet-o-Fish",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Fish and Chips",
+    "Cals_per100grams": 195
+  },
+  {
+    "FoodItem": "Fish Sandwich",
+    "Cals_per100grams": 273
+  },
+  {
+    "FoodItem": "French Fries",
+    "Cals_per100grams": 312
+  },
+  {
+    "FoodItem": "Grilled Chicken Salad",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Ham Sandwich",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Hamburger",
+    "Cals_per100grams": 254
+  },
+  {
+    "FoodItem": "Hot Dog",
+    "Cals_per100grams": 269
+  },
+  {
+    "FoodItem": "Italian BMT",
+    "Cals_per100grams": 183
+  },
+  {
+    "FoodItem": "Lasagna",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "McDonald’s Big Mac",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "McDonald’s Cheeseburger",
+    "Cals_per100grams": 263
+  },
+  {
+    "FoodItem": "McDonald’s Chicken Nuggets",
+    "Cals_per100grams": 297
+  },
+  {
+    "FoodItem": "McDonald’s Double Cheeseburger",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "McDonald’s Filet-o-Fish",
+    "Cals_per100grams": 275
+  },
+  {
+    "FoodItem": "McDonald’s McChicken",
+    "Cals_per100grams": 251
+  },
+  {
+    "FoodItem": "McDonald’s McDouble",
+    "Cals_per100grams": 252
+  },
+  {
+    "FoodItem": "McDonald’s McMuffi Egg",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "McDonald’s McRib",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "McDonald’s Mighty Wings",
+    "Cals_per100grams": 308
+  },
+  {
+    "FoodItem": "McRib",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "Meatball Sandwich",
+    "Cals_per100grams": 161
+  },
+  {
+    "FoodItem": "Nachos with Cheese",
+    "Cals_per100grams": 306
+  },
+  {
+    "FoodItem": "Onion Rings",
+    "Cals_per100grams": 411
+  },
+  {
+    "FoodItem": "Smoked Salmon",
+    "Cals_per100grams": 158
+  },
+  {
+    "FoodItem": "Spicy Italian",
+    "Cals_per100grams": 219
+  },
+  {
+    "FoodItem": "Subway Club Sandwich",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Tortilla Wrap",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Tuna",
+    "Cals_per100grams": 86
+  },
+  {
+    "FoodItem": "Turkey",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Veggie Burger",
+    "Cals_per100grams": 181
+  },
+  {
+    "FoodItem": "Veggie Delight",
+    "Cals_per100grams": 138
+  },
+  {
+    "FoodItem": "Veggie Patty",
+    "Cals_per100grams": 390
+  },
+  {
+    "FoodItem": "Wendy’s Baconator",
+    "Cals_per100grams": 304
+  },
+  {
+    "FoodItem": "Wendy’s Jr. Bacon Cheeseburger",
+    "Cals_per100grams": 261
+  },
+  {
+    "FoodItem": "Wendy’s Jr. Cheeseburger",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "Wendy’s Son of Baconator",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Whopper",
+    "Cals_per100grams": 231
+  },
+  {
+    "FoodItem": "Zinger",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "Zinger Burger",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "Poutine",
+    "Cals_per100grams": 227
+  },
+  {
+    "FoodItem": "BBQ Chicken Pizza",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "BBQ Pizza",
+    "Cals_per100grams": 224
+  },
+  {
+    "FoodItem": "Beef Pizza",
+    "Cals_per100grams": 304
+  },
+  {
+    "FoodItem": "Bianca Pizza",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Buffalo Chicken Pizza",
+    "Cals_per100grams": 252
+  },
+  {
+    "FoodItem": "Calabrese Pizza",
+    "Cals_per100grams": 235
+  },
+  {
+    "FoodItem": "Calzone",
+    "Cals_per100grams": 231
+  },
+  {
+    "FoodItem": "Capricciosa Pizza",
+    "Cals_per100grams": 260
+  },
+  {
+    "FoodItem": "Cheese Pizza",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Chicken Pizza",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Deep Dish Pizza",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "Dominos Philly Cheese Steak Pizza",
+    "Cals_per100grams": 224
+  },
+  {
+    "FoodItem": "Four Cheese Pizza",
+    "Cals_per100grams": 221
+  },
+  {
+    "FoodItem": "Goat Cheese Pizza",
+    "Cals_per100grams": 219
+  },
+  {
+    "FoodItem": "Grilled Pizza",
+    "Cals_per100grams": 226
+  },
+  {
+    "FoodItem": "Hawaiian Pizza",
+    "Cals_per100grams": 115
+  },
+  {
+    "FoodItem": "Margherita Pizza",
+    "Cals_per100grams": 275
+  },
+  {
+    "FoodItem": "Mozzarella Pizza",
+    "Cals_per100grams": 249
+  },
+  {
+    "FoodItem": "Mushroom Pizza",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Napoli Pizza",
+    "Cals_per100grams": 202
+  },
+  {
+    "FoodItem": "New York Style Pizza",
+    "Cals_per100grams": 169
+  },
+  {
+    "FoodItem": "Pepperoni Pizza",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Pizza Dough",
+    "Cals_per100grams": 228
+  },
+  {
+    "FoodItem": "Pizza Hut Stuffed Crust Pizza",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Pizza Hut Supreme Pizza",
+    "Cals_per100grams": 248
+  },
+  {
+    "FoodItem": "Pizza Rolls",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Quattro Formaggi Pizza",
+    "Cals_per100grams": 248
+  },
+  {
+    "FoodItem": "Red Pepper Pizza",
+    "Cals_per100grams": 192
+  },
+  {
+    "FoodItem": "Salami Pizza",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Sausage Pizza",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Seafood Pizza",
+    "Cals_per100grams": 245
+  },
+  {
+    "FoodItem": "Shrimp Pizza",
+    "Cals_per100grams": 209
+  },
+  {
+    "FoodItem": "Sicilian Pizza",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Spinach Feta Pizza",
+    "Cals_per100grams": 242
+  },
+  {
+    "FoodItem": "Spinach Pizza",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Stuffed Crust Pizza",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Tarte Flambée",
+    "Cals_per100grams": 253
+  },
+  {
+    "FoodItem": "Thin Crust Pizza",
+    "Cals_per100grams": 261
+  },
+  {
+    "FoodItem": "Tuna Pizza",
+    "Cals_per100grams": 254
+  },
+  {
+    "FoodItem": "Vegetable Pizza",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "Vegetarian Pizza",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "Veggie Pizza",
+    "Cals_per100grams": 231
+  },
+  {
+    "FoodItem": "White Pizza",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "American Cheese",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Applewood",
+    "Cals_per100grams": 410
+  },
+  {
+    "FoodItem": "Asiago Cheese",
+    "Cals_per100grams": 392
+  },
+  {
+    "FoodItem": "Babybel",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "Blue Cheese",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Brie",
+    "Cals_per100grams": 334
+  },
+  {
+    "FoodItem": "Camembert",
+    "Cals_per100grams": 300
+  },
+  {
+    "FoodItem": "Cheddar",
+    "Cals_per100grams": 403
+  },
+  {
+    "FoodItem": "Cheese Fondue",
+    "Cals_per100grams": 228
+  },
+  {
+    "FoodItem": "Cheese Spread",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Cheese Whiz",
+    "Cals_per100grams": 276
+  },
+  {
+    "FoodItem": "Chester",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Colby Cheese",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Colby-Jack Cheese",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Cottage Cheese",
+    "Cals_per100grams": 98
+  },
+  {
+    "FoodItem": "Dutch Cheese",
+    "Cals_per100grams": 393
+  },
+  {
+    "FoodItem": "Edam Cheese",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Emmentaler",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Feta",
+    "Cals_per100grams": 264
+  },
+  {
+    "FoodItem": "Fontina",
+    "Cals_per100grams": 389
+  },
+  {
+    "FoodItem": "Fresh Mozzarella",
+    "Cals_per100grams": 280
+  },
+  {
+    "FoodItem": "Gjetost",
+    "Cals_per100grams": 466
+  },
+  {
+    "FoodItem": "Goat Cheese",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Gorgonzola",
+    "Cals_per100grams": 350
+  },
+  {
+    "FoodItem": "Gouda",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Grated Parmesan",
+    "Cals_per100grams": 431
+  },
+  {
+    "FoodItem": "Grilled Cheese",
+    "Cals_per100grams": 350
+  },
+  {
+    "FoodItem": "Gruyere",
+    "Cals_per100grams": 413
+  },
+  {
+    "FoodItem": "Halloumi",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Havarti",
+    "Cals_per100grams": 371
+  },
+  {
+    "FoodItem": "Italian Cheese",
+    "Cals_per100grams": 397
+  },
+  {
+    "FoodItem": "Jarlsberg",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Maasdam Cheese",
+    "Cals_per100grams": 344
+  },
+  {
+    "FoodItem": "Manchego Cheese",
+    "Cals_per100grams": 320
+  },
+  {
+    "FoodItem": "Monterey",
+    "Cals_per100grams": 373
+  },
+  {
+    "FoodItem": "Monterey Jack Cheese",
+    "Cals_per100grams": 373
+  },
+  {
+    "FoodItem": "Mozzarella",
+    "Cals_per100grams": 280
+  },
+  {
+    "FoodItem": "Muenster Cheese",
+    "Cals_per100grams": 368
+  },
+  {
+    "FoodItem": "Neufchatel",
+    "Cals_per100grams": 253
+  },
+  {
+    "FoodItem": "Parmesan",
+    "Cals_per100grams": 431
+  },
+  {
+    "FoodItem": "Pecorino",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Provolone",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Raclette Cheese",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Ricotta",
+    "Cals_per100grams": 174
+  },
+  {
+    "FoodItem": "Romano",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Roquefort",
+    "Cals_per100grams": 369
+  },
+  {
+    "FoodItem": "Sheep Cheese",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Soft Cheese",
+    "Cals_per100grams": 268
+  },
+  {
+    "FoodItem": "Stilton Cheese",
+    "Cals_per100grams": 393
+  },
+  {
+    "FoodItem": "String Cheese",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Swiss Cheese",
+    "Cals_per100grams": 380
+  },
+  {
+    "FoodItem": "White Cheddar",
+    "Cals_per100grams": 403
+  },
+  {
+    "FoodItem": "Wisconsin Cheese",
+    "Cals_per100grams": 389
+  },
+  {
+    "FoodItem": "Chive Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Cottage Cheese",
+    "Cals_per100grams": 98
+  },
+  {
+    "FoodItem": "Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Cream Cheese with Herbs",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Feta Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Garlic Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Goat Cheese",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Horseradish",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Mascarpone",
+    "Cals_per100grams": 450
+  },
+  {
+    "FoodItem": "Obatzda",
+    "Cals_per100grams": 303
+  },
+  {
+    "FoodItem": "Olive Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Pesto Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Philadelphia Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Pineapple Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Salmon Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Vegetable Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Walnut Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Almond Milk",
+    "Cals_per100grams": 17
+  },
+  {
+    "FoodItem": "Buttermilk",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "Chocolate Mousse",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "Coconut Milk",
+    "Cals_per100grams": 230
+  },
+  {
+    "FoodItem": "Coffee Creamer",
+    "Cals_per100grams": 195
+  },
+  {
+    "FoodItem": "Condensed Milk",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Cottage Cheese",
+    "Cals_per100grams": 98
+  },
+  {
+    "FoodItem": "Cream",
+    "Cals_per100grams": 242
+  },
+  {
+    "FoodItem": "Creme Fraiche",
+    "Cals_per100grams": 393
+  },
+  {
+    "FoodItem": "Curd",
+    "Cals_per100grams": 98
+  },
+  {
+    "FoodItem": "Custard",
+    "Cals_per100grams": 122
+  },
+  {
+    "FoodItem": "Evaporated Milk",
+    "Cals_per100grams": 135
+  },
+  {
+    "FoodItem": "Goat Milk",
+    "Cals_per100grams": 69
+  },
+  {
+    "FoodItem": "Hot Chocolate",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Kefir",
+    "Cals_per100grams": 55
+  },
+  {
+    "FoodItem": "Lactose-free Milk",
+    "Cals_per100grams": 52
+  },
+  {
+    "FoodItem": "Lassi",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Milk",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Plain Yogurt",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Powdered Milk",
+    "Cals_per100grams": 496
+  },
+  {
+    "FoodItem": "Quark",
+    "Cals_per100grams": 145
+  },
+  {
+    "FoodItem": "Rice Milk",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Rice Pudding",
+    "Cals_per100grams": 118
+  },
+  {
+    "FoodItem": "Semi-skimmed Milk",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Semolina Pudding",
+    "Cals_per100grams": 67
+  },
+  {
+    "FoodItem": "Skim Milk",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Sour Cream",
+    "Cals_per100grams": 181
+  },
+  {
+    "FoodItem": "Soy Milk",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Sweetened Condensed Milk",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Tzatziki",
+    "Cals_per100grams": 117
+  },
+  {
+    "FoodItem": "Whipped Cream",
+    "Cals_per100grams": 257
+  },
+  {
+    "FoodItem": "Whole Milk",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Yogurt",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "American Cheese",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Applewood",
+    "Cals_per100grams": 410
+  },
+  {
+    "FoodItem": "Bergkäse",
+    "Cals_per100grams": 418
+  },
+  {
+    "FoodItem": "Butter Cheese",
+    "Cals_per100grams": 388
+  },
+  {
+    "FoodItem": "Cheddar",
+    "Cals_per100grams": 403
+  },
+  {
+    "FoodItem": "Cheese Platter",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Cheese Slices",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Colby Cheese",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Colby-Jack Cheese",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Cold Pack Cheese",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Edam",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Edam Cheese",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Emmental",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Emmentaler",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Esrom (Cheese)",
+    "Cals_per100grams": 322
+  },
+  {
+    "FoodItem": "Fol Epi",
+    "Cals_per100grams": 388
+  },
+  {
+    "FoodItem": "Fresh Mozzarella",
+    "Cals_per100grams": 280
+  },
+  {
+    "FoodItem": "Gouda",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Gouda Cheese",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Havarti",
+    "Cals_per100grams": 371
+  },
+  {
+    "FoodItem": "Lacy Swiss Cheese",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Leerdammer",
+    "Cals_per100grams": 284
+  },
+  {
+    "FoodItem": "Leerdammer Cheese",
+    "Cals_per100grams": 284
+  },
+  {
+    "FoodItem": "Maasdam Cheese",
+    "Cals_per100grams": 344
+  },
+  {
+    "FoodItem": "Monterey Jack Cheese",
+    "Cals_per100grams": 373
+  },
+  {
+    "FoodItem": "Mozzarella",
+    "Cals_per100grams": 280
+  },
+  {
+    "FoodItem": "Muenster Cheese",
+    "Cals_per100grams": 368
+  },
+  {
+    "FoodItem": "Pepper Cheese",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Sandwich Cheese",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Smoked Cheese",
+    "Cals_per100grams": 410
+  },
+  {
+    "FoodItem": "Tilsit",
+    "Cals_per100grams": 340
+  },
+  {
+    "FoodItem": "White American",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "White Cheddar",
+    "Cals_per100grams": 403
+  },
+  {
+    "FoodItem": "Young Gouda",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Activia",
+    "Cals_per100grams": 74
+  },
+  {
+    "FoodItem": "Activia Lemon",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Activia Strawberry",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Aloe Vera Yogurt",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Ayran",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Bircher Muesli Yogurt",
+    "Cals_per100grams": 109
+  },
+  {
+    "FoodItem": "Blueberry Yogurt",
+    "Cals_per100grams": 105
+  },
+  {
+    "FoodItem": "Cherry Yogurt",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Chocolate Yogurt",
+    "Cals_per100grams": 128
+  },
+  {
+    "FoodItem": "Cream Yogurt",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Creamy Yogurt",
+    "Cals_per100grams": 90
+  },
+  {
+    "FoodItem": "Diet Yogurt",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Fruit Yogurt",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Greek Yogurt",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Low-Fat Yogurt",
+    "Cals_per100grams": 63
+  },
+  {
+    "FoodItem": "Mocca Yogurt",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Organic Yogurt",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Peach Yogurt",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Plain Yogurt",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Probiotic Yogurt",
+    "Cals_per100grams": 80
+  },
+  {
+    "FoodItem": "Skim Milk Yogurt",
+    "Cals_per100grams": 56
+  },
+  {
+    "FoodItem": "Stracciatella Yogurt",
+    "Cals_per100grams": 139
+  },
+  {
+    "FoodItem": "Strawberry Yogurt",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Vanilla Yogurt",
+    "Cals_per100grams": 101
+  },
+  {
+    "FoodItem": "Yogurt",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Yogurt Corner",
+    "Cals_per100grams": 119
+  },
+  {
+    "FoodItem": "Yoplait Boston Cream Pie",
+    "Cals_per100grams": 90
+  },
+  {
+    "FoodItem": "Yoplait French Vanilla",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Greek Blueberry",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Greek Coconut",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Greek Strawberry",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Greek Vanilla",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Harvest Peach",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Key Lime Pie",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Mango",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Mixed Berry",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Pina Colada",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Strawberry",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Strawberry Banana",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Yoplait Strawberry Cheesecake",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Beef",
+    "Cals_per100grams": 171
+  },
+  {
+    "FoodItem": "Beef Brisket",
+    "Cals_per100grams": 137
+  },
+  {
+    "FoodItem": "Beef Fillet",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Beef Goulash",
+    "Cals_per100grams": 123
+  },
+  {
+    "FoodItem": "Beef Minute Steak",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Beef Neck",
+    "Cals_per100grams": 213
+  },
+  {
+    "FoodItem": "Beef Pancreas",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Beef Patty",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Beef Prime Rib",
+    "Cals_per100grams": 404
+  },
+  {
+    "FoodItem": "Beef Ribs",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Beef Sirloin",
+    "Cals_per100grams": 182
+  },
+  {
+    "FoodItem": "Beef Suet",
+    "Cals_per100grams": 854
+  },
+  {
+    "FoodItem": "Beef Tallow",
+    "Cals_per100grams": 902
+  },
+  {
+    "FoodItem": "Beef Thymus",
+    "Cals_per100grams": 319
+  },
+  {
+    "FoodItem": "Beef Tripe",
+    "Cals_per100grams": 94
+  },
+  {
+    "FoodItem": "Chuck Roast",
+    "Cals_per100grams": 141
+  },
+  {
+    "FoodItem": "Chuck Steak",
+    "Cals_per100grams": 137
+  },
+  {
+    "FoodItem": "Filet Mignon",
+    "Cals_per100grams": 207
+  },
+  {
+    "FoodItem": "Flank Steak",
+    "Cals_per100grams": 194
+  },
+  {
+    "FoodItem": "Ground Beef",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Ground Chuck",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Ground Round",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Minced Veal",
+    "Cals_per100grams": 143
+  },
+  {
+    "FoodItem": "Porterhouse Steak",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Rib Eye Steak",
+    "Cals_per100grams": 217
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "Cals_per100grams": 187
+  },
+  {
+    "FoodItem": "Rump Steak",
+    "Cals_per100grams": 171
+  },
+  {
+    "FoodItem": "Skirt Steak",
+    "Cals_per100grams": 205
+  },
+  {
+    "FoodItem": "Stew Beef",
+    "Cals_per100grams": 191
+  },
+  {
+    "FoodItem": "Strip Steak",
+    "Cals_per100grams": 117
+  },
+  {
+    "FoodItem": "T-Bone-Steak",
+    "Cals_per100grams": 221
+  },
+  {
+    "FoodItem": "Veal",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Veal Breast",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Veal Leg",
+    "Cals_per100grams": 211
+  },
+  {
+    "FoodItem": "Veal Roast Beef",
+    "Cals_per100grams": 175
+  },
+  {
+    "FoodItem": "Veal Shank",
+    "Cals_per100grams": 177
+  },
+  {
+    "FoodItem": "Veal Shoulder",
+    "Cals_per100grams": 183
+  },
+  {
+    "FoodItem": "Veal Sirloin",
+    "Cals_per100grams": 204
+  },
+  {
+    "FoodItem": "Veal Tenderloin",
+    "Cals_per100grams": 217
+  },
+  {
+    "FoodItem": "Baked Ham",
+    "Cals_per100grams": 343
+  },
+  {
+    "FoodItem": "Beef Salami",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Boiled Ham",
+    "Cals_per100grams": 126
+  },
+  {
+    "FoodItem": "Bologna",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Bresaola",
+    "Cals_per100grams": 178
+  },
+  {
+    "FoodItem": "Capicola",
+    "Cals_per100grams": 110
+  },
+  {
+    "FoodItem": "Chicken Breast Fillet",
+    "Cals_per100grams": 79
+  },
+  {
+    "FoodItem": "Chopped Ham",
+    "Cals_per100grams": 180
+  },
+  {
+    "FoodItem": "Chorizo",
+    "Cals_per100grams": 455
+  },
+  {
+    "FoodItem": "Corned Beef",
+    "Cals_per100grams": 251
+  },
+  {
+    "FoodItem": "Dutch Loaf",
+    "Cals_per100grams": 268
+  },
+  {
+    "FoodItem": "Ham",
+    "Cals_per100grams": 145
+  },
+  {
+    "FoodItem": "Ham Sausage",
+    "Cals_per100grams": 164
+  },
+  {
+    "FoodItem": "Head Cheese",
+    "Cals_per100grams": 157
+  },
+  {
+    "FoodItem": "Hickory Ham",
+    "Cals_per100grams": 188
+  },
+  {
+    "FoodItem": "Honey Ham",
+    "Cals_per100grams": 122
+  },
+  {
+    "FoodItem": "Liverwurst",
+    "Cals_per100grams": 326
+  },
+  {
+    "FoodItem": "Olive Loaf",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Oven-Roasted Turkey Breast",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Parma Ham",
+    "Cals_per100grams": 345
+  },
+  {
+    "FoodItem": "Pastrami",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Pepperoni",
+    "Cals_per100grams": 494
+  },
+  {
+    "FoodItem": "Pimento Loaf",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "Pork Roast",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Prosciutto",
+    "Cals_per100grams": 195
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Salami",
+    "Cals_per100grams": 336
+  },
+  {
+    "FoodItem": "Serrano Ham",
+    "Cals_per100grams": 300
+  },
+  {
+    "FoodItem": "Smoked Ham",
+    "Cals_per100grams": 107
+  },
+  {
+    "FoodItem": "Smoked Turkey Breast",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Summer Sausage",
+    "Cals_per100grams": 298
+  },
+  {
+    "FoodItem": "Tongue",
+    "Cals_per100grams": 284
+  },
+  {
+    "FoodItem": "Turkey Breast",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Turkey Ham",
+    "Cals_per100grams": 126
+  },
+  {
+    "FoodItem": "Turkey Salami",
+    "Cals_per100grams": 152
+  },
+  {
+    "FoodItem": "Alligator",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Beef",
+    "Cals_per100grams": 248
+  },
+  {
+    "FoodItem": "Beef Brisket",
+    "Cals_per100grams": 242
+  },
+  {
+    "FoodItem": "Beef Jerky",
+    "Cals_per100grams": 410
+  },
+  {
+    "FoodItem": "Beef Ribs",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Beef Tenderloin",
+    "Cals_per100grams": 218
+  },
+  {
+    "FoodItem": "Chicken",
+    "Cals_per100grams": 219
+  },
+  {
+    "FoodItem": "Chicken Breast",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Chicken Drumstick",
+    "Cals_per100grams": 185
+  },
+  {
+    "FoodItem": "Chicken Fat",
+    "Cals_per100grams": 898
+  },
+  {
+    "FoodItem": "Chicken Giblets",
+    "Cals_per100grams": 158
+  },
+  {
+    "FoodItem": "Chicken Gizzards",
+    "Cals_per100grams": 146
+  },
+  {
+    "FoodItem": "Chicken Leg",
+    "Cals_per100grams": 174
+  },
+  {
+    "FoodItem": "Chicken Liver",
+    "Cals_per100grams": 167
+  },
+  {
+    "FoodItem": "Chicken Meat",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Chicken Thigh",
+    "Cals_per100grams": 229
+  },
+  {
+    "FoodItem": "Chicken Wing",
+    "Cals_per100grams": 266
+  },
+  {
+    "FoodItem": "Chuck Steak",
+    "Cals_per100grams": 277
+  },
+  {
+    "FoodItem": "Cubed Steak",
+    "Cals_per100grams": 199
+  },
+  {
+    "FoodItem": "Duck",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Filet Mignon",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Flank Steak",
+    "Cals_per100grams": 194
+  },
+  {
+    "FoodItem": "Flat Iron Steak",
+    "Cals_per100grams": 137
+  },
+  {
+    "FoodItem": "Ground Beef",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Ground Round",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Ham",
+    "Cals_per100grams": 163
+  },
+  {
+    "FoodItem": "New York Strip Steak",
+    "Cals_per100grams": 199
+  },
+  {
+    "FoodItem": "Ostrich",
+    "Cals_per100grams": 145
+  },
+  {
+    "FoodItem": "Pork",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Pork Baby Back Ribs",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Pork Chops",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Pork Country-Style Ribs",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Pork Loin",
+    "Cals_per100grams": 204
+  },
+  {
+    "FoodItem": "Pork Roast",
+    "Cals_per100grams": 254
+  },
+  {
+    "FoodItem": "Pork Steaks",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "Cals_per100grams": 140
+  },
+  {
+    "FoodItem": "Round Steak",
+    "Cals_per100grams": 182
+  },
+  {
+    "FoodItem": "Schnitzel",
+    "Cals_per100grams": 156
+  },
+  {
+    "FoodItem": "Spare Ribs",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Standing Rib Roast",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "T-Bone Steak",
+    "Cals_per100grams": 202
+  },
+  {
+    "FoodItem": "Turkey",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Turkey Breast",
+    "Cals_per100grams": 135
+  },
+  {
+    "FoodItem": "Turkey Legs",
+    "Cals_per100grams": 208
+  },
+  {
+    "FoodItem": "Turkey Steak",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Turkey Wings",
+    "Cals_per100grams": 221
+  },
+  {
+    "FoodItem": "Beef Brain",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Beef Heart",
+    "Cals_per100grams": 165
+  },
+  {
+    "FoodItem": "Beef Kidney",
+    "Cals_per100grams": 158
+  },
+  {
+    "FoodItem": "Beef Liver",
+    "Cals_per100grams": 191
+  },
+  {
+    "FoodItem": "Beef Lung",
+    "Cals_per100grams": 120
+  },
+  {
+    "FoodItem": "Beef Melt",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Beef Tongue",
+    "Cals_per100grams": 284
+  },
+  {
+    "FoodItem": "Calf Brain",
+    "Cals_per100grams": 136
+  },
+  {
+    "FoodItem": "Calf Liver",
+    "Cals_per100grams": 192
+  },
+  {
+    "FoodItem": "Calf Lung",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Calf Melt",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "Chicken Giblets",
+    "Cals_per100grams": 277
+  },
+  {
+    "FoodItem": "Chicken Heart",
+    "Cals_per100grams": 185
+  },
+  {
+    "FoodItem": "Chicken Liver",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Chicken Stomach",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Chitterlings",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Duck Liver",
+    "Cals_per100grams": 136
+  },
+  {
+    "FoodItem": "Goose Liver",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Hog Maws",
+    "Cals_per100grams": 157
+  },
+  {
+    "FoodItem": "Pig Brain",
+    "Cals_per100grams": 138
+  },
+  {
+    "FoodItem": "Pig Heart",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Pig Kidney",
+    "Cals_per100grams": 151
+  },
+  {
+    "FoodItem": "Pig Lung",
+    "Cals_per100grams": 99
+  },
+  {
+    "FoodItem": "Pork Liver",
+    "Cals_per100grams": 165
+  },
+  {
+    "FoodItem": "Pork Melt",
+    "Cals_per100grams": 219
+  },
+  {
+    "FoodItem": "Pork Tongue",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Turkey Giblets",
+    "Cals_per100grams": 173
+  },
+  {
+    "FoodItem": "Turkey Heart",
+    "Cals_per100grams": 174
+  },
+  {
+    "FoodItem": "Turkey Liver",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Turkey Stomach",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Veal Heart",
+    "Cals_per100grams": 186
+  },
+  {
+    "FoodItem": "Veal Kidney",
+    "Cals_per100grams": 163
+  },
+  {
+    "FoodItem": "Veal Tongue",
+    "Cals_per100grams": 202
+  },
+  {
+    "FoodItem": "Bacon",
+    "Cals_per100grams": 407
+  },
+  {
+    "FoodItem": "Brawn",
+    "Cals_per100grams": 309
+  },
+  {
+    "FoodItem": "Canadian-Style Bacon",
+    "Cals_per100grams": 107
+  },
+  {
+    "FoodItem": "Chitterlings",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Ground Pork",
+    "Cals_per100grams": 263
+  },
+  {
+    "FoodItem": "Hog Maws",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Lard",
+    "Cals_per100grams": 898
+  },
+  {
+    "FoodItem": "Meatloaf",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Parma Ham",
+    "Cals_per100grams": 261
+  },
+  {
+    "FoodItem": "Pig Ear",
+    "Cals_per100grams": 166
+  },
+  {
+    "FoodItem": "Pig Fat",
+    "Cals_per100grams": 638
+  },
+  {
+    "FoodItem": "Pig’s Tail",
+    "Cals_per100grams": 396
+  },
+  {
+    "FoodItem": "Pig’s Trotter",
+    "Cals_per100grams": 243
+  },
+  {
+    "FoodItem": "Pork Bacon",
+    "Cals_per100grams": 407
+  },
+  {
+    "FoodItem": "Pork Belly",
+    "Cals_per100grams": 518
+  },
+  {
+    "FoodItem": "Pork Blade Steak",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Pork Chop",
+    "Cals_per100grams": 123
+  },
+  {
+    "FoodItem": "Pork Country-Style Ribs",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Pork Crown Roast",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Pork Cutlet",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Pork Cutlets",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Pork Leg",
+    "Cals_per100grams": 201
+  },
+  {
+    "FoodItem": "Pork Loin",
+    "Cals_per100grams": 143
+  },
+  {
+    "FoodItem": "Pork Meatloaf",
+    "Cals_per100grams": 243
+  },
+  {
+    "FoodItem": "Pork Ragout",
+    "Cals_per100grams": 73
+  },
+  {
+    "FoodItem": "Pork Rib Roast",
+    "Cals_per100grams": 159
+  },
+  {
+    "FoodItem": "Pork Ribs",
+    "Cals_per100grams": 292
+  },
+  {
+    "FoodItem": "Pork Roast",
+    "Cals_per100grams": 194
+  },
+  {
+    "FoodItem": "Pork Sausage",
+    "Cals_per100grams": 339
+  },
+  {
+    "FoodItem": "Pork Shank",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Pork Shoulder",
+    "Cals_per100grams": 269
+  },
+  {
+    "FoodItem": "Pork Shoulder Blade",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Pork Stomach",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Rack of Pork",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Salt Meat",
+    "Cals_per100grams": 286
+  },
+  {
+    "FoodItem": "Salt Pork",
+    "Cals_per100grams": 286
+  },
+  {
+    "FoodItem": "Serrano Ham",
+    "Cals_per100grams": 339
+  },
+  {
+    "FoodItem": "Spare Ribs",
+    "Cals_per100grams": 396
+  },
+  {
+    "FoodItem": "Spareribs",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Capon",
+    "Cals_per100grams": 229
+  },
+  {
+    "FoodItem": "Chicken",
+    "Cals_per100grams": 219
+  },
+  {
+    "FoodItem": "Chicken Breast",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Chicken Drumsticks",
+    "Cals_per100grams": 185
+  },
+  {
+    "FoodItem": "Chicken Gizzards",
+    "Cals_per100grams": 154
+  },
+  {
+    "FoodItem": "Chicken Legs",
+    "Cals_per100grams": 174
+  },
+  {
+    "FoodItem": "Chicken Thighs",
+    "Cals_per100grams": 229
+  },
+  {
+    "FoodItem": "Chicken Wings",
+    "Cals_per100grams": 266
+  },
+  {
+    "FoodItem": "Cornish Hens",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Dove",
+    "Cals_per100grams": 213
+  },
+  {
+    "FoodItem": "Duck",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Duck Breast",
+    "Cals_per100grams": 201
+  },
+  {
+    "FoodItem": "Emu",
+    "Cals_per100grams": 152
+  },
+  {
+    "FoodItem": "Goose",
+    "Cals_per100grams": 305
+  },
+  {
+    "FoodItem": "Guinea-Fowl",
+    "Cals_per100grams": 158
+  },
+  {
+    "FoodItem": "Ostrich",
+    "Cals_per100grams": 145
+  },
+  {
+    "FoodItem": "Ostrich Meat",
+    "Cals_per100grams": 145
+  },
+  {
+    "FoodItem": "Pheasant",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Pheasant Breast",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Pheasant Leg",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Pigeon",
+    "Cals_per100grams": 142
+  },
+  {
+    "FoodItem": "Poularde",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Quail",
+    "Cals_per100grams": 227
+  },
+  {
+    "FoodItem": "Quail Breast",
+    "Cals_per100grams": 123
+  },
+  {
+    "FoodItem": "Rhea",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Turkey",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Turkey Breast",
+    "Cals_per100grams": 135
+  },
+  {
+    "FoodItem": "Turkey Cutlet",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Turkey Drumsticks",
+    "Cals_per100grams": 208
+  },
+  {
+    "FoodItem": "Turkey Legs",
+    "Cals_per100grams": 208
+  },
+  {
+    "FoodItem": "Turkey Steak",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Turkey Wings",
+    "Cals_per100grams": 221
+  },
+  {
+    "FoodItem": "Wild Duck",
+    "Cals_per100grams": 211
+  },
+  {
+    "FoodItem": "Andouille",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Bacon",
+    "Cals_per100grams": 407
+  },
+  {
+    "FoodItem": "Black Pudding",
+    "Cals_per100grams": 379
+  },
+  {
+    "FoodItem": "Blood Sausage",
+    "Cals_per100grams": 379
+  },
+  {
+    "FoodItem": "Bockwurst",
+    "Cals_per100grams": 301
+  },
+  {
+    "FoodItem": "Boiled Ham",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Bologna",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Boudin",
+    "Cals_per100grams": 194
+  },
+  {
+    "FoodItem": "Bratwurst",
+    "Cals_per100grams": 297
+  },
+  {
+    "FoodItem": "Brawn",
+    "Cals_per100grams": 157
+  },
+  {
+    "FoodItem": "Breakfast Sausage Links",
+    "Cals_per100grams": 339
+  },
+  {
+    "FoodItem": "Cheese Pastry",
+    "Cals_per100grams": 374
+  },
+  {
+    "FoodItem": "Chicken Breast",
+    "Cals_per100grams": 79
+  },
+  {
+    "FoodItem": "Chicken Meat",
+    "Cals_per100grams": 79
+  },
+  {
+    "FoodItem": "Chicken Salad",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Chorizo",
+    "Cals_per100grams": 455
+  },
+  {
+    "FoodItem": "Cooked Ham",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Corned Beef",
+    "Cals_per100grams": 153
+  },
+  {
+    "FoodItem": "Cumberland Sausage",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Frankfurters",
+    "Cals_per100grams": 305
+  },
+  {
+    "FoodItem": "Garlic Sausage",
+    "Cals_per100grams": 169
+  },
+  {
+    "FoodItem": "Hot Dogs",
+    "Cals_per100grams": 278
+  },
+  {
+    "FoodItem": "Hot Sausage",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Italian Sausage",
+    "Cals_per100grams": 149
+  },
+  {
+    "FoodItem": "Jerky",
+    "Cals_per100grams": 410
+  },
+  {
+    "FoodItem": "Kielbasa",
+    "Cals_per100grams": 309
+  },
+  {
+    "FoodItem": "Knackwurst",
+    "Cals_per100grams": 307
+  },
+  {
+    "FoodItem": "Landjaeger",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Linguica",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Liver Pate",
+    "Cals_per100grams": 319
+  },
+  {
+    "FoodItem": "Liverwurst",
+    "Cals_per100grams": 326
+  },
+  {
+    "FoodItem": "Luncheon Meat",
+    "Cals_per100grams": 117
+  },
+  {
+    "FoodItem": "Mettwurst",
+    "Cals_per100grams": 310
+  },
+  {
+    "FoodItem": "Mortadella",
+    "Cals_per100grams": 311
+  },
+  {
+    "FoodItem": "Pastrami",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Pepperoni",
+    "Cals_per100grams": 494
+  },
+  {
+    "FoodItem": "Polish Sausage",
+    "Cals_per100grams": 301
+  },
+  {
+    "FoodItem": "Pork",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Pork Roll",
+    "Cals_per100grams": 302
+  },
+  {
+    "FoodItem": "Prosciutto",
+    "Cals_per100grams": 195
+  },
+  {
+    "FoodItem": "Ring Bologna",
+    "Cals_per100grams": 286
+  },
+  {
+    "FoodItem": "Salami",
+    "Cals_per100grams": 336
+  },
+  {
+    "FoodItem": "Sausage",
+    "Cals_per100grams": 230
+  },
+  {
+    "FoodItem": "Smoked Sausage",
+    "Cals_per100grams": 301
+  },
+  {
+    "FoodItem": "Souse",
+    "Cals_per100grams": 157
+  },
+  {
+    "FoodItem": "Spam",
+    "Cals_per100grams": 315
+  },
+  {
+    "FoodItem": "Weisswurst",
+    "Cals_per100grams": 313
+  },
+  {
+    "FoodItem": "Alligator",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Alligator Meat",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Antelope Meat",
+    "Cals_per100grams": 150
+  },
+  {
+    "FoodItem": "Bear Meat",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Beaver Meat",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Bison",
+    "Cals_per100grams": 171
+  },
+  {
+    "FoodItem": "Bison Meat",
+    "Cals_per100grams": 171
+  },
+  {
+    "FoodItem": "Bison Sirloin",
+    "Cals_per100grams": 171
+  },
+  {
+    "FoodItem": "Buffalo",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Buffalo Meat",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Caribou",
+    "Cals_per100grams": 159
+  },
+  {
+    "FoodItem": "Goose",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Goose Meat",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Lamb",
+    "Cals_per100grams": 202
+  },
+  {
+    "FoodItem": "Lamb Meat",
+    "Cals_per100grams": 202
+  },
+  {
+    "FoodItem": "Mallard Duck Meat",
+    "Cals_per100grams": 211
+  },
+  {
+    "FoodItem": "Mallard Meat",
+    "Cals_per100grams": 211
+  },
+  {
+    "FoodItem": "Moose",
+    "Cals_per100grams": 134
+  },
+  {
+    "FoodItem": "Moose Meat",
+    "Cals_per100grams": 134
+  },
+  {
+    "FoodItem": "Mutton",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Mutton Meat",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Ostrich",
+    "Cals_per100grams": 175
+  },
+  {
+    "FoodItem": "Ostrich Meat",
+    "Cals_per100grams": 175
+  },
+  {
+    "FoodItem": "Pheasant",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Pheasant Meat",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Rabbit",
+    "Cals_per100grams": 197
+  },
+  {
+    "FoodItem": "Racoon",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Racoon Meat",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Reindeer",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Reindeer Meat",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Squirrel",
+    "Cals_per100grams": 173
+  },
+  {
+    "FoodItem": "Squirrel Meat",
+    "Cals_per100grams": 173
+  },
+  {
+    "FoodItem": "Venison",
+    "Cals_per100grams": 164
+  },
+  {
+    "FoodItem": "Venison Sirloin",
+    "Cals_per100grams": 158
+  },
+  {
+    "FoodItem": "Wild Boar",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Wild Boar Meat",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Angel Food Cake",
+    "Cals_per100grams": 258
+  },
+  {
+    "FoodItem": "Apple Cake",
+    "Cals_per100grams": 252
+  },
+  {
+    "FoodItem": "Apple Cobbler",
+    "Cals_per100grams": 198
+  },
+  {
+    "FoodItem": "Apple Crisp",
+    "Cals_per100grams": 156
+  },
+  {
+    "FoodItem": "Apple Crumble",
+    "Cals_per100grams": 156
+  },
+  {
+    "FoodItem": "Apple Pie",
+    "Cals_per100grams": 237
+  },
+  {
+    "FoodItem": "Apple Strudel",
+    "Cals_per100grams": 274
+  },
+  {
+    "FoodItem": "Apple Turnover",
+    "Cals_per100grams": 348
+  },
+  {
+    "FoodItem": "Applesauce Cake",
+    "Cals_per100grams": 358
+  },
+  {
+    "FoodItem": "Baked Alaska",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Bakewell Tart",
+    "Cals_per100grams": 430
+  },
+  {
+    "FoodItem": "Banoffee Pie",
+    "Cals_per100grams": 395
+  },
+  {
+    "FoodItem": "Birthday Cake",
+    "Cals_per100grams": 465
+  },
+  {
+    "FoodItem": "Black and White Cookie",
+    "Cals_per100grams": 381
+  },
+  {
+    "FoodItem": "Black Forest Cake",
+    "Cals_per100grams": 264
+  },
+  {
+    "FoodItem": "Blueberry Cobbler",
+    "Cals_per100grams": 234
+  },
+  {
+    "FoodItem": "Blueberry Muffin",
+    "Cals_per100grams": 377
+  },
+  {
+    "FoodItem": "Blueberry Pie",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Bundt Cake",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Buttermilk Pie",
+    "Cals_per100grams": 380
+  },
+  {
+    "FoodItem": "Caramel Cake",
+    "Cals_per100grams": 475
+  },
+  {
+    "FoodItem": "Carrot Cake",
+    "Cals_per100grams": 408
+  },
+  {
+    "FoodItem": "Cheesecake",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Cherry Pie",
+    "Cals_per100grams": 260
+  },
+  {
+    "FoodItem": "Chess Pie",
+    "Cals_per100grams": 411
+  },
+  {
+    "FoodItem": "Chocolate Cake",
+    "Cals_per100grams": 389
+  },
+  {
+    "FoodItem": "Chocolate Cream Pie",
+    "Cals_per100grams": 304
+  },
+  {
+    "FoodItem": "Chocolate Mousse Cake",
+    "Cals_per100grams": 260
+  },
+  {
+    "FoodItem": "Chocolate Mousse Pie",
+    "Cals_per100grams": 260
+  },
+  {
+    "FoodItem": "Chocolate Muffin",
+    "Cals_per100grams": 420
+  },
+  {
+    "FoodItem": "Coconut Cake",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Coffee Cake",
+    "Cals_per100grams": 331
+  },
+  {
+    "FoodItem": "Cream Puff",
+    "Cals_per100grams": 334
+  },
+  {
+    "FoodItem": "Crumb Cake",
+    "Cals_per100grams": 441
+  },
+  {
+    "FoodItem": "Cupcake",
+    "Cals_per100grams": 305
+  },
+  {
+    "FoodItem": "Danish Pastry",
+    "Cals_per100grams": 374
+  },
+  {
+    "FoodItem": "Donut",
+    "Cals_per100grams": 403
+  },
+  {
+    "FoodItem": "Doughnut",
+    "Cals_per100grams": 403
+  },
+  {
+    "FoodItem": "Flan",
+    "Cals_per100grams": 145
+  },
+  {
+    "FoodItem": "Flourless Chocolate Cake",
+    "Cals_per100grams": 509
+  },
+  {
+    "FoodItem": "French Cruller",
+    "Cals_per100grams": 412
+  },
+  {
+    "FoodItem": "Fruit Cake",
+    "Cals_per100grams": 324
+  },
+  {
+    "FoodItem": "Funnel Cake",
+    "Cals_per100grams": 307
+  },
+  {
+    "FoodItem": "German Chocolate Cake",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Gingerbread",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Ice Cream Cake",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Key Lime Pie",
+    "Cals_per100grams": 359
+  },
+  {
+    "FoodItem": "King Cake",
+    "Cals_per100grams": 377
+  },
+  {
+    "FoodItem": "Layer Cake",
+    "Cals_per100grams": 402
+  },
+  {
+    "FoodItem": "Lemon Cake",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Lemon Meringue Pie",
+    "Cals_per100grams": 268
+  },
+  {
+    "FoodItem": "Madeira Cake",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Marble Cake",
+    "Cals_per100grams": 339
+  },
+  {
+    "FoodItem": "Meringue",
+    "Cals_per100grams": 285
+  },
+  {
+    "FoodItem": "Opera Cake",
+    "Cals_per100grams": 320
+  },
+  {
+    "FoodItem": "Paczki",
+    "Cals_per100grams": 336
+  },
+  {
+    "FoodItem": "Pancake",
+    "Cals_per100grams": 227
+  },
+  {
+    "FoodItem": "Panettone",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Pavlova",
+    "Cals_per100grams": 294
+  },
+  {
+    "FoodItem": "Peach Cobbler",
+    "Cals_per100grams": 65
+  },
+  {
+    "FoodItem": "Peach Pie",
+    "Cals_per100grams": 223
+  },
+  {
+    "FoodItem": "Pecan Pie",
+    "Cals_per100grams": 407
+  },
+  {
+    "FoodItem": "Pineapple Upside-Down Cake",
+    "Cals_per100grams": 319
+  },
+  {
+    "FoodItem": "Plum Cake",
+    "Cals_per100grams": 109
+  },
+  {
+    "FoodItem": "Poppy-Seed Cake",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Pound Cake",
+    "Cals_per100grams": 390
+  },
+  {
+    "FoodItem": "Profiterole",
+    "Cals_per100grams": 334
+  },
+  {
+    "FoodItem": "Puff Pastry",
+    "Cals_per100grams": 558
+  },
+  {
+    "FoodItem": "Pumpkin Bread",
+    "Cals_per100grams": 298
+  },
+  {
+    "FoodItem": "Pumpkin Cheesecake",
+    "Cals_per100grams": 340
+  },
+  {
+    "FoodItem": "Pumpkin Pie",
+    "Cals_per100grams": 243
+  },
+  {
+    "FoodItem": "Raspberry Pie",
+    "Cals_per100grams": 240
+  },
+  {
+    "FoodItem": "Red Velvet Cake",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Rhubarb Pie",
+    "Cals_per100grams": 245
+  },
+  {
+    "FoodItem": "Rum Cake",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Sacher Torte",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Sponge Cake",
+    "Cals_per100grams": 289
+  },
+  {
+    "FoodItem": "Strawberry Cheesecake",
+    "Cals_per100grams": 327
+  },
+  {
+    "FoodItem": "Strawberry Pie",
+    "Cals_per100grams": 230
+  },
+  {
+    "FoodItem": "Strawberry Rhubarb Pie",
+    "Cals_per100grams": 281
+  },
+  {
+    "FoodItem": "Sweet Potato Pie",
+    "Cals_per100grams": 260
+  },
+  {
+    "FoodItem": "Swiss Roll",
+    "Cals_per100grams": 439
+  },
+  {
+    "FoodItem": "Tarte Tatin",
+    "Cals_per100grams": 210
+  },
+  {
+    "FoodItem": "Tiramisu",
+    "Cals_per100grams": 283
+  },
+  {
+    "FoodItem": "Tiramisu Cake",
+    "Cals_per100grams": 291
+  },
+  {
+    "FoodItem": "Treacle Tart",
+    "Cals_per100grams": 369
+  },
+  {
+    "FoodItem": "Tres Leches Cake",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Trifle",
+    "Cals_per100grams": 180
+  },
+  {
+    "FoodItem": "Victoria Sponge Cake",
+    "Cals_per100grams": 257
+  },
+  {
+    "FoodItem": "Waffles",
+    "Cals_per100grams": 312
+  },
+  {
+    "FoodItem": "Wedding Cake",
+    "Cals_per100grams": 381
+  },
+  {
+    "FoodItem": "3 Musketeers",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "After Eight",
+    "Cals_per100grams": 452
+  },
+  {
+    "FoodItem": "Airheads",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Almond Roca",
+    "Cals_per100grams": 571
+  },
+  {
+    "FoodItem": "Angel Delight",
+    "Cals_per100grams": 451
+  },
+  {
+    "FoodItem": "Animal Crackers",
+    "Cals_per100grams": 446
+  },
+  {
+    "FoodItem": "Baby Ruth",
+    "Cals_per100grams": 469
+  },
+  {
+    "FoodItem": "Butterfinger",
+    "Cals_per100grams": 450
+  },
+  {
+    "FoodItem": "Buttermilk Pancakes",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Candy Apple",
+    "Cals_per100grams": 152
+  },
+  {
+    "FoodItem": "Candy Cane",
+    "Cals_per100grams": 423
+  },
+  {
+    "FoodItem": "Candy canes",
+    "Cals_per100grams": 423
+  },
+  {
+    "FoodItem": "Candy Corn",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Candy Floss",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Caramel Popcorn",
+    "Cals_per100grams": 376
+  },
+  {
+    "FoodItem": "Caramel squares",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Celebrations",
+    "Cals_per100grams": 490
+  },
+  {
+    "FoodItem": "Cheez-It’s",
+    "Cals_per100grams": 533
+  },
+  {
+    "FoodItem": "Chocolate",
+    "Cals_per100grams": 529
+  },
+  {
+    "FoodItem": "Chocolate Bar",
+    "Cals_per100grams": 533
+  },
+  {
+    "FoodItem": "Chocolate Chips",
+    "Cals_per100grams": 493
+  },
+  {
+    "FoodItem": "Cookies",
+    "Cals_per100grams": 488
+  },
+  {
+    "FoodItem": "Cotton Candy",
+    "Cals_per100grams": 643
+  },
+  {
+    "FoodItem": "Eggy Bread",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Fairy Cakes",
+    "Cals_per100grams": 440
+  },
+  {
+    "FoodItem": "Ferrero Rocher",
+    "Cals_per100grams": 576
+  },
+  {
+    "FoodItem": "Flapjack",
+    "Cals_per100grams": 486
+  },
+  {
+    "FoodItem": "Fortune Cookies",
+    "Cals_per100grams": 214
+  },
+  {
+    "FoodItem": "Granola Bars",
+    "Cals_per100grams": 452
+  },
+  {
+    "FoodItem": "Gumdrops",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Gummi Bears",
+    "Cals_per100grams": 316
+  },
+  {
+    "FoodItem": "Hanuta",
+    "Cals_per100grams": 541
+  },
+  {
+    "FoodItem": "Hershey Kisses",
+    "Cals_per100grams": 471
+  },
+  {
+    "FoodItem": "Jelly Beans",
+    "Cals_per100grams": 354
+  },
+  {
+    "FoodItem": "Jelly Belly",
+    "Cals_per100grams": 354
+  },
+  {
+    "FoodItem": "Jolly Ranchers",
+    "Cals_per100grams": 385
+  },
+  {
+    "FoodItem": "Jordan Almonds",
+    "Cals_per100grams": 429
+  },
+  {
+    "FoodItem": "Kit Kat",
+    "Cals_per100grams": 521
+  },
+  {
+    "FoodItem": "Laffy Taffy",
+    "Cals_per100grams": 372
+  },
+  {
+    "FoodItem": "Licorice",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "LifeSavers",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Lindt Chocolate",
+    "Cals_per100grams": 548
+  },
+  {
+    "FoodItem": "Liquorice",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Lollipop",
+    "Cals_per100grams": 392
+  },
+  {
+    "FoodItem": "M&M’s",
+    "Cals_per100grams": 479
+  },
+  {
+    "FoodItem": "Maltesers",
+    "Cals_per100grams": 498
+  },
+  {
+    "FoodItem": "Mars Bar",
+    "Cals_per100grams": 448
+  },
+  {
+    "FoodItem": "Marshmallows",
+    "Cals_per100grams": 318
+  },
+  {
+    "FoodItem": "Marzipan",
+    "Cals_per100grams": 411
+  },
+  {
+    "FoodItem": "Mike and Ike",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Milk Duds",
+    "Cals_per100grams": 422
+  },
+  {
+    "FoodItem": "Milky Way",
+    "Cals_per100grams": 449
+  },
+  {
+    "FoodItem": "PayDay",
+    "Cals_per100grams": 462
+  },
+  {
+    "FoodItem": "Peanut Bar",
+    "Cals_per100grams": 533
+  },
+  {
+    "FoodItem": "Peanut Brittle",
+    "Cals_per100grams": 183
+  },
+  {
+    "FoodItem": "Peanut Butter Bars",
+    "Cals_per100grams": 379
+  },
+  {
+    "FoodItem": "Peanut Butter Cookies",
+    "Cals_per100grams": 475
+  },
+  {
+    "FoodItem": "Peppermint bark",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Pez",
+    "Cals_per100grams": 427
+  },
+  {
+    "FoodItem": "Pop Rocks",
+    "Cals_per100grams": 358
+  },
+  {
+    "FoodItem": "Popcorn",
+    "Cals_per100grams": 582
+  },
+  {
+    "FoodItem": "Pumpkin Seeds",
+    "Cals_per100grams": 560
+  },
+  {
+    "FoodItem": "Reeses Peanut Butter Cups",
+    "Cals_per100grams": 536
+  },
+  {
+    "FoodItem": "Rice Pudding",
+    "Cals_per100grams": 134
+  },
+  {
+    "FoodItem": "Roasted Almonds",
+    "Cals_per100grams": 452
+  },
+  {
+    "FoodItem": "Rolo",
+    "Cals_per100grams": 474
+  },
+  {
+    "FoodItem": "S’mores",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Semolina",
+    "Cals_per100grams": 340
+  },
+  {
+    "FoodItem": "Skittles",
+    "Cals_per100grams": 405
+  },
+  {
+    "FoodItem": "Smarties",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Smores",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Snickers",
+    "Cals_per100grams": 484
+  },
+  {
+    "FoodItem": "Sour Patch Kids",
+    "Cals_per100grams": 363
+  },
+  {
+    "FoodItem": "Speculoos",
+    "Cals_per100grams": 469
+  },
+  {
+    "FoodItem": "Spritz Cookies",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Take 5",
+    "Cals_per100grams": 476
+  },
+  {
+    "FoodItem": "Toblerone",
+    "Cals_per100grams": 525
+  },
+  {
+    "FoodItem": "Trifle",
+    "Cals_per100grams": 186
+  },
+  {
+    "FoodItem": "Twix",
+    "Cals_per100grams": 495
+  },
+  {
+    "FoodItem": "Waffles",
+    "Cals_per100grams": 272
+  },
+  {
+    "FoodItem": "Whoopie Pie",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Baskin-Robbins",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Ben and Jerry’s",
+    "Cals_per100grams": 228
+  },
+  {
+    "FoodItem": "Butter Pecan Ice Cream",
+    "Cals_per100grams": 248
+  },
+  {
+    "FoodItem": "Carvel",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Chocolate Chip Ice Cream",
+    "Cals_per100grams": 215
+  },
+  {
+    "FoodItem": "Chocolate Ice Cream",
+    "Cals_per100grams": 216
+  },
+  {
+    "FoodItem": "Ciao Bella",
+    "Cals_per100grams": 109
+  },
+  {
+    "FoodItem": "Coffee Ice Cream",
+    "Cals_per100grams": 236
+  },
+  {
+    "FoodItem": "Cold Stone Creamery",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Cookie Dough Ice Cream",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Crunchie McFlurry",
+    "Cals_per100grams": 174
+  },
+  {
+    "FoodItem": "Dairy Milk McFlurry",
+    "Cals_per100grams": 186
+  },
+  {
+    "FoodItem": "Dippin Dots",
+    "Cals_per100grams": 224
+  },
+  {
+    "FoodItem": "Double Rainbow",
+    "Cals_per100grams": 257
+  },
+  {
+    "FoodItem": "Drumsticks",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "French Vanilla Ice Cream",
+    "Cals_per100grams": 201
+  },
+  {
+    "FoodItem": "Friendly’s",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Healthy Choice",
+    "Cals_per100grams": 125
+  },
+  {
+    "FoodItem": "Hot Fudge Sundae",
+    "Cals_per100grams": 186
+  },
+  {
+    "FoodItem": "Ice Cream Sandwich",
+    "Cals_per100grams": 237
+  },
+  {
+    "FoodItem": "Ice Cream Sundae",
+    "Cals_per100grams": 142
+  },
+  {
+    "FoodItem": "Ice Milk",
+    "Cals_per100grams": 159
+  },
+  {
+    "FoodItem": "Magnolia",
+    "Cals_per100grams": 230
+  },
+  {
+    "FoodItem": "Magnum",
+    "Cals_per100grams": 300
+  },
+  {
+    "FoodItem": "Magnum Almond",
+    "Cals_per100grams": 315
+  },
+  {
+    "FoodItem": "Magnum Double Caramel",
+    "Cals_per100grams": 355
+  },
+  {
+    "FoodItem": "Magnum Double Chocolate",
+    "Cals_per100grams": 380
+  },
+  {
+    "FoodItem": "Magnum Gold",
+    "Cals_per100grams": 341
+  },
+  {
+    "FoodItem": "Magnum White",
+    "Cals_per100grams": 297
+  },
+  {
+    "FoodItem": "McFlurry",
+    "Cals_per100grams": 153
+  },
+  {
+    "FoodItem": "McFlurry Oreo",
+    "Cals_per100grams": 186
+  },
+  {
+    "FoodItem": "Mini Milk",
+    "Cals_per100grams": 120
+  },
+  {
+    "FoodItem": "Mint Chocolate Chip Ice Cream",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Rocky Road Ice Cream",
+    "Cals_per100grams": 257
+  },
+  {
+    "FoodItem": "Schwan’s",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Smarties McFlurry",
+    "Cals_per100grams": 198
+  },
+  {
+    "FoodItem": "Snickers Ice Cream",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Soft Serve",
+    "Cals_per100grams": 222
+  },
+  {
+    "FoodItem": "Solero",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Strawberry Ice Cream",
+    "Cals_per100grams": 236
+  },
+  {
+    "FoodItem": "Strawberry Sundae",
+    "Cals_per100grams": 158
+  },
+  {
+    "FoodItem": "Sundae",
+    "Cals_per100grams": 215
+  },
+  {
+    "FoodItem": "Turkey Hill",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Vanilla Cone",
+    "Cals_per100grams": 162
+  },
+  {
+    "FoodItem": "Vanilla Ice Cream",
+    "Cals_per100grams": 201
+  },
+  {
+    "FoodItem": "Acai Juice",
+    "Cals_per100grams": 58
+  },
+  {
+    "FoodItem": "Aloe Vera",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Apple Juice",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Apricot Nectar",
+    "Cals_per100grams": 56
+  },
+  {
+    "FoodItem": "Banana Juice",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Blackberry Juice",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Boysenberry Juice",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Capri-Sun",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Carrot Juice",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Chamomile Tea",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Cherry Juice",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Clamato",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Coconut Milk",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Coconut Water",
+    "Cals_per100grams": 19
+  },
+  {
+    "FoodItem": "Concord Grape",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Cranberry Apple Juice",
+    "Cals_per100grams": 67
+  },
+  {
+    "FoodItem": "Cranberry Grape Juice",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Cranberry Juice",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Cucumber Juice",
+    "Cals_per100grams": 10
+  },
+  {
+    "FoodItem": "Currant Juice",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Energy-Drink",
+    "Cals_per100grams": 87
+  },
+  {
+    "FoodItem": "Fruitopia",
+    "Cals_per100grams": 110
+  },
+  {
+    "FoodItem": "Grape Juice",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Grapefruit Juice",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Lemon Juice",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Lemonade",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Lime Juice",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Limeade",
+    "Cals_per100grams": 128
+  },
+  {
+    "FoodItem": "Mango Lassi",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Nestea",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Orange Juice",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Papaya Juice",
+    "Cals_per100grams": 58
+  },
+  {
+    "FoodItem": "Passion Fruit Juice",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Peach Juice",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Peach Nectar",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Pear Juice",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Pear Nectar",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Pineapple Juice",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Pineapple Orange Juice",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Plum Juice",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Pomegranate Juice",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Sauerkraut Juice",
+    "Cals_per100grams": 14
+  },
+  {
+    "FoodItem": "Tangerine Juice",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Tomato Juice",
+    "Cals_per100grams": 17
+  },
+  {
+    "FoodItem": "Vegetable Juice",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "White Grape Juice",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Absinthe",
+    "Cals_per100grams": 348
+  },
+  {
+    "FoodItem": "Advocaat",
+    "Cals_per100grams": 283
+  },
+  {
+    "FoodItem": "Amaretto",
+    "Cals_per100grams": 310
+  },
+  {
+    "FoodItem": "Applejack",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Asti",
+    "Cals_per100grams": 138
+  },
+  {
+    "FoodItem": "Bailey’s Irish Cream",
+    "Cals_per100grams": 327
+  },
+  {
+    "FoodItem": "Baileys",
+    "Cals_per100grams": 327
+  },
+  {
+    "FoodItem": "Beer",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Blue Curacao",
+    "Cals_per100grams": 243
+  },
+  {
+    "FoodItem": "Bourbon",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Brandy",
+    "Cals_per100grams": 213
+  },
+  {
+    "FoodItem": "Canadian Whiskey",
+    "Cals_per100grams": 216
+  },
+  {
+    "FoodItem": "Chambord",
+    "Cals_per100grams": 348
+  },
+  {
+    "FoodItem": "Champagne",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Cider",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Cognac",
+    "Cals_per100grams": 235
+  },
+  {
+    "FoodItem": "Cointreau",
+    "Cals_per100grams": 320
+  },
+  {
+    "FoodItem": "Drambuie",
+    "Cals_per100grams": 358
+  },
+  {
+    "FoodItem": "Frangelico",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Gin",
+    "Cals_per100grams": 263
+  },
+  {
+    "FoodItem": "Glenfiddich",
+    "Cals_per100grams": 230
+  },
+  {
+    "FoodItem": "Grand Marnier",
+    "Cals_per100grams": 253
+  },
+  {
+    "FoodItem": "Irish Whiskey",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Jack Daniel’s",
+    "Cals_per100grams": 146
+  },
+  {
+    "FoodItem": "Jagermeister",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Jim Beam",
+    "Cals_per100grams": 222
+  },
+  {
+    "FoodItem": "Kahlua",
+    "Cals_per100grams": 180
+  },
+  {
+    "FoodItem": "Liqueur",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Liquor",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Midori",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Prosecco",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Punch",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "Red Wine",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Rose Wine",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Rum",
+    "Cals_per100grams": 231
+  },
+  {
+    "FoodItem": "Sambuca",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "Sangria",
+    "Cals_per100grams": 96
+  },
+  {
+    "FoodItem": "Scotch",
+    "Cals_per100grams": 222
+  },
+  {
+    "FoodItem": "Sherry",
+    "Cals_per100grams": 116
+  },
+  {
+    "FoodItem": "Sloe Gin",
+    "Cals_per100grams": 332
+  },
+  {
+    "FoodItem": "Southern Comfort",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Tequila",
+    "Cals_per100grams": 110
+  },
+  {
+    "FoodItem": "Triple Sec",
+    "Cals_per100grams": 153
+  },
+  {
+    "FoodItem": "Vermouth",
+    "Cals_per100grams": 130
+  },
+  {
+    "FoodItem": "Vodka",
+    "Cals_per100grams": 231
+  },
+  {
+    "FoodItem": "Whisky",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "White Wine",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Wine",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Ale",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Altbier",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Bass",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Beck’s",
+    "Cals_per100grams": 39
+  },
+  {
+    "FoodItem": "Beer",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Blue Moon",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Bock Beer",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Buckler (N.A.)",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Bud Ice",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Bud Light",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Bud Light Chelada",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Bud Light Lime",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Bud Select",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Bud Select 55",
+    "Cals_per100grams": 15
+  },
+  {
+    "FoodItem": "Budweiser",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Budweiser Chelada",
+    "Cals_per100grams": 52
+  },
+  {
+    "FoodItem": "Busch",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Busch Light",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Busch N.A.",
+    "Cals_per100grams": 17
+  },
+  {
+    "FoodItem": "Carlsberg",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Clausthaler (N.A.)",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "Colt 45",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Coors",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Coors Light",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Coors N.A.",
+    "Cals_per100grams": 18
+  },
+  {
+    "FoodItem": "Corona",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Dark Beer",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Genesee Cream Ale",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Ginger Beer",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Guinness",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Heineken",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Honey Brown",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Hurricane High Gravity",
+    "Cals_per100grams": 39
+  },
+  {
+    "FoodItem": "IPA",
+    "Cals_per100grams": 51
+  },
+  {
+    "FoodItem": "Keystone Ice",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Keystone Light",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Koelsch",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Labatt",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Lager Beer",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Land Shark",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Light Beer",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Lowenbrau",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Malt Beer",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Michelob Amber Bock",
+    "Cals_per100grams": 47
+  },
+  {
+    "FoodItem": "Michelob Lager",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Michelob Light",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Michelob Ultra",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Michelob Ultra Amber",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "Michelob Ultra Lime Cactus",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Miller Chill",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Miller Genuine Draft",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Miller High Life",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Miller High Life Light",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Miller Lite",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Milwaukee’s Best",
+    "Cals_per100grams": 36
+  },
+  {
+    "FoodItem": "Milwaukee’s Best Light",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Molson",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Natural Ice",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Natural Light",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Newcastle",
+    "Cals_per100grams": 39
+  },
+  {
+    "FoodItem": "Non-alcoholic Beer",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "O’Doul’s (N.A.)",
+    "Cals_per100grams": 19
+  },
+  {
+    "FoodItem": "Old Milwaukee",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Old Milwaukee N.A.",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Olde English",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Pabst Blue Ribbon",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Pale Ale",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Pilsner",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Porter",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Redbridge (Gluten-free)",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Rolling Rock",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Rolling Rock Light",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Root Beer",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Samuel Adams",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Shock Top",
+    "Cals_per100grams": 47
+  },
+  {
+    "FoodItem": "Shock Top Raspberry Wheat",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Sierra Nevada Strong",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "Sparks",
+    "Cals_per100grams": 74
+  },
+  {
+    "FoodItem": "St. Pauli Girl",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Steel Reserve",
+    "Cals_per100grams": 63
+  },
+  {
+    "FoodItem": "Stout",
+    "Cals_per100grams": 51
+  },
+  {
+    "FoodItem": "Stout Beer",
+    "Cals_per100grams": 51
+  },
+  {
+    "FoodItem": "Strong Beer",
+    "Cals_per100grams": 55
+  },
+  {
+    "FoodItem": "Tilt",
+    "Cals_per100grams": 64
+  },
+  {
+    "FoodItem": "Wheat Beer",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "ACE Drink",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Apple Spritzer",
+    "Cals_per100grams": 24
+  },
+  {
+    "FoodItem": "Chai",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Chai Tea",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Chocolate Milk",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Chocolate Milkshake",
+    "Cals_per100grams": 125
+  },
+  {
+    "FoodItem": "Club Mate",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Coca Cola",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Coffee",
+    "Cals_per100grams": 1
+  },
+  {
+    "FoodItem": "Coke Zero",
+    "Cals_per100grams": 1
+  },
+  {
+    "FoodItem": "Cola",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Crystal Light",
+    "Cals_per100grams": 263
+  },
+  {
+    "FoodItem": "Diet Coke",
+    "Cals_per100grams": 1
+  },
+  {
+    "FoodItem": "Egg Cream",
+    "Cals_per100grams": 94
+  },
+  {
+    "FoodItem": "Egg Nog",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Elderflower Cordial",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Evian",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Gatorade",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Ginger Tea",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Hawaiian Punch",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Hi-C",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Horchata",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Hot Chocolate",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Ice Tea",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Iced Tea",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Karamalz",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Kombucha",
+    "Cals_per100grams": 13
+  },
+  {
+    "FoodItem": "Kool-Aid",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "Lassi",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Latte Macchiato",
+    "Cals_per100grams": 57
+  },
+  {
+    "FoodItem": "Lemonade",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Malt Beer",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Milk",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Milkshake (dry)",
+    "Cals_per100grams": 329
+  },
+  {
+    "FoodItem": "Milo",
+    "Cals_per100grams": 409
+  },
+  {
+    "FoodItem": "Nectar",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Nestea",
+    "Cals_per100grams": 36
+  },
+  {
+    "FoodItem": "Non-alcoholic Beer",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Powerade",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Slurpee",
+    "Cals_per100grams": 4
+  },
+  {
+    "FoodItem": "Slush Puppie",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Smoothie",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Soy Milk",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Strawberry Milkshake",
+    "Cals_per100grams": 113
+  },
+  {
+    "FoodItem": "Tang",
+    "Cals_per100grams": 381
+  },
+  {
+    "FoodItem": "Tap Water",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Tea",
+    "Cals_per100grams": 1
+  },
+  {
+    "FoodItem": "Vanilla Milkshake",
+    "Cals_per100grams": 149
+  },
+  {
+    "FoodItem": "Volvic",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Water",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Yerba Mate",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "7up",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Barq’s",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Bitter Lemon",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Canada Dry Ginger Ale",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Cherry Coke",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Coke",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Coke Zero",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Diet Cherry Coke",
+    "Cals_per100grams": 1
+  },
+  {
+    "FoodItem": "Diet Coke",
+    "Cals_per100grams": 1
+  },
+  {
+    "FoodItem": "Diet Dr. Pepper",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Diet Pepsi",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Diet Sunkist",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Dr. Brown’s",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Dr. Pepper",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Fanta",
+    "Cals_per100grams": 39
+  },
+  {
+    "FoodItem": "Fanta Zero",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Five Alive",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Fresca",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Full Throttle",
+    "Cals_per100grams": 110
+  },
+  {
+    "FoodItem": "Fuze",
+    "Cals_per100grams": 20
+  },
+  {
+    "FoodItem": "Fuze Tea",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Gatorade",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Ginger Ale",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Ice Tea",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Jolt Cola",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Kool-Aid",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "Lemonade",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Mello Yello",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Minute Maid",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Minute Maid Light",
+    "Cals_per100grams": 2
+  },
+  {
+    "FoodItem": "Mug Root Beer",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Orange Soda",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Pepsi",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Pibb Xtra",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Powerade",
+    "Cals_per100grams": 120
+  },
+  {
+    "FoodItem": "Schweppes Ginger Ale",
+    "Cals_per100grams": 38
+  },
+  {
+    "FoodItem": "Soda",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Sprite",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Sprite Zero",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Squirt",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Sunkist",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Surge",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "TaB",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Tonic Water",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Vanilla Coke",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Cabernet Sauvignon",
+    "Cals_per100grams": 77
+  },
+  {
+    "FoodItem": "Cava",
+    "Cals_per100grams": 76
+  },
+  {
+    "FoodItem": "Champagne",
+    "Cals_per100grams": 76
+  },
+  {
+    "FoodItem": "Chardonnay",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Chenin Blanc",
+    "Cals_per100grams": 80
+  },
+  {
+    "FoodItem": "Chocolate Wine",
+    "Cals_per100grams": 256
+  },
+  {
+    "FoodItem": "Dry Red Wine",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Gamay",
+    "Cals_per100grams": 78
+  },
+  {
+    "FoodItem": "Malbec",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Malbec Wine",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Marsala Wine",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Merlot",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Merlot Wine",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Moscato Wine",
+    "Cals_per100grams": 76
+  },
+  {
+    "FoodItem": "Mulled Wine",
+    "Cals_per100grams": 196
+  },
+  {
+    "FoodItem": "Pinot Gris",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Pinot Noir",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Plum Wine",
+    "Cals_per100grams": 163
+  },
+  {
+    "FoodItem": "Port Wine",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Prosecco",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Red Wine",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Red Wines",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Riesling",
+    "Cals_per100grams": 80
+  },
+  {
+    "FoodItem": "Riesling Wine",
+    "Cals_per100grams": 80
+  },
+  {
+    "FoodItem": "Rose Wine",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Sangria",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "Sauvignon Blanc",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Sherry",
+    "Cals_per100grams": 116
+  },
+  {
+    "FoodItem": "Shiraz",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Sparkling Wine",
+    "Cals_per100grams": 190
+  },
+  {
+    "FoodItem": "Sweet Red Wine",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Sweet White Wine",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Sweet Wines",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Vermouth",
+    "Cals_per100grams": 108
+  },
+  {
+    "FoodItem": "White Wine",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "White Zinfandel",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Wine",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Yellow Tail Wine",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Zinfandel",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Amaranth",
+    "Cals_per100grams": 371
+  },
+  {
+    "FoodItem": "Barley",
+    "Cals_per100grams": 354
+  },
+  {
+    "FoodItem": "Barley Groats",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Brown Rice",
+    "Cals_per100grams": 388
+  },
+  {
+    "FoodItem": "Buckwheat",
+    "Cals_per100grams": 343
+  },
+  {
+    "FoodItem": "Buckwheat Groats",
+    "Cals_per100grams": 346
+  },
+  {
+    "FoodItem": "Corn Waffles",
+    "Cals_per100grams": 274
+  },
+  {
+    "FoodItem": "Cornmeal",
+    "Cals_per100grams": 362
+  },
+  {
+    "FoodItem": "Cornstarch",
+    "Cals_per100grams": 381
+  },
+  {
+    "FoodItem": "Couscous",
+    "Cals_per100grams": 376
+  },
+  {
+    "FoodItem": "Cracker",
+    "Cals_per100grams": 502
+  },
+  {
+    "FoodItem": "Durum Wheat Semolina",
+    "Cals_per100grams": 397
+  },
+  {
+    "FoodItem": "Flaxseed",
+    "Cals_per100grams": 534
+  },
+  {
+    "FoodItem": "Freekeh",
+    "Cals_per100grams": 520
+  },
+  {
+    "FoodItem": "Gluten",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Grissini",
+    "Cals_per100grams": 408
+  },
+  {
+    "FoodItem": "Kamut",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Millet",
+    "Cals_per100grams": 378
+  },
+  {
+    "FoodItem": "Millet Flour",
+    "Cals_per100grams": 372
+  },
+  {
+    "FoodItem": "Millet Gruel",
+    "Cals_per100grams": 46
+  },
+  {
+    "FoodItem": "Oat Bran",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Pearl Barley",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Polenta",
+    "Cals_per100grams": 366
+  },
+  {
+    "FoodItem": "Prawn Crackers",
+    "Cals_per100grams": 527
+  },
+  {
+    "FoodItem": "Pretzel Sticks",
+    "Cals_per100grams": 380
+  },
+  {
+    "FoodItem": "Quinoa",
+    "Cals_per100grams": 368
+  },
+  {
+    "FoodItem": "Rusk",
+    "Cals_per100grams": 410
+  },
+  {
+    "FoodItem": "Rye Bran",
+    "Cals_per100grams": 281
+  },
+  {
+    "FoodItem": "Sago",
+    "Cals_per100grams": 354
+  },
+  {
+    "FoodItem": "Savoury Biscuits",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Shortbread",
+    "Cals_per100grams": 502
+  },
+  {
+    "FoodItem": "Spelt",
+    "Cals_per100grams": 338
+  },
+  {
+    "FoodItem": "Spelt Bran",
+    "Cals_per100grams": 177
+  },
+  {
+    "FoodItem": "Spelt Semolina",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Sunflower Seeds",
+    "Cals_per100grams": 584
+  },
+  {
+    "FoodItem": "Tortilla",
+    "Cals_per100grams": 237
+  },
+  {
+    "FoodItem": "Tortilla Chips",
+    "Cals_per100grams": 499
+  },
+  {
+    "FoodItem": "Wheat Bran",
+    "Cals_per100grams": 216
+  },
+  {
+    "FoodItem": "Wheat Germ",
+    "Cals_per100grams": 382
+  },
+  {
+    "FoodItem": "Wheat Gluten",
+    "Cals_per100grams": 325
+  },
+  {
+    "FoodItem": "Wheat Semolina",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Wheat Starch",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Whole Grain Wheat",
+    "Cals_per100grams": 339
+  },
+  {
+    "FoodItem": "Wholegrain Oat",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Bran Flakes",
+    "Cals_per100grams": 356
+  },
+  {
+    "FoodItem": "Cap’n Crunch",
+    "Cals_per100grams": 404
+  },
+  {
+    "FoodItem": "Cheerios",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Chex",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Chocolate Cheerios",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Chocos",
+    "Cals_per100grams": 380
+  },
+  {
+    "FoodItem": "Cinnamon Toast Crunch",
+    "Cals_per100grams": 433
+  },
+  {
+    "FoodItem": "Coco Pops",
+    "Cals_per100grams": 376
+  },
+  {
+    "FoodItem": "Cocoa Krispies",
+    "Cals_per100grams": 386
+  },
+  {
+    "FoodItem": "Cocoa Pebbles",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Cocoa Puffs",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Cookie Crisp",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Corn Flakes",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Corn Pops",
+    "Cals_per100grams": 377
+  },
+  {
+    "FoodItem": "Count Chocula",
+    "Cals_per100grams": 407
+  },
+  {
+    "FoodItem": "Cracklin Oat Bran",
+    "Cals_per100grams": 402
+  },
+  {
+    "FoodItem": "Cream of Wheat",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Crunchy Nut",
+    "Cals_per100grams": 600
+  },
+  {
+    "FoodItem": "Crunchy Nut Cornflakes",
+    "Cals_per100grams": 600
+  },
+  {
+    "FoodItem": "Fiber One",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Froot Loops",
+    "Cals_per100grams": 379
+  },
+  {
+    "FoodItem": "Frosted Cheerios",
+    "Cals_per100grams": 393
+  },
+  {
+    "FoodItem": "Frosted Flakes",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Frosted Mini-Wheats",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Frosties",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Fruity Pebbles",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Golden Grahams",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Grape-Nuts",
+    "Cals_per100grams": 362
+  },
+  {
+    "FoodItem": "Honey Nut Cheerios",
+    "Cals_per100grams": 393
+  },
+  {
+    "FoodItem": "Honey Smacks",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Honeycomb",
+    "Cals_per100grams": 397
+  },
+  {
+    "FoodItem": "Just Right",
+    "Cals_per100grams": 391
+  },
+  {
+    "FoodItem": "Kashi",
+    "Cals_per100grams": 377
+  },
+  {
+    "FoodItem": "Kelloggs Corn Flakes",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Kix",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Krave",
+    "Cals_per100grams": 372
+  },
+  {
+    "FoodItem": "Life Cereal",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Lucky Charms",
+    "Cals_per100grams": 406
+  },
+  {
+    "FoodItem": "Malt-O-Meal",
+    "Cals_per100grams": 51
+  },
+  {
+    "FoodItem": "Mini-Wheats",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Muesli",
+    "Cals_per100grams": 336
+  },
+  {
+    "FoodItem": "Multigrain Cheerios",
+    "Cals_per100grams": 380
+  },
+  {
+    "FoodItem": "Nutri-Grain",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Oatibix",
+    "Cals_per100grams": 421
+  },
+  {
+    "FoodItem": "Oatmeal",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Peanut Butter Toast Crunch",
+    "Cals_per100grams": 431
+  },
+  {
+    "FoodItem": "Post Raisin Bran",
+    "Cals_per100grams": 322
+  },
+  {
+    "FoodItem": "Post Shredded Wheat",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Puff",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Puffed Rice",
+    "Cals_per100grams": 383
+  },
+  {
+    "FoodItem": "Puffed Wheat",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Quaker Grits",
+    "Cals_per100grams": 344
+  },
+  {
+    "FoodItem": "Quaker Oatmeal",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Quaker Oatmeal Squares",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Raisin Bran",
+    "Cals_per100grams": 322
+  },
+  {
+    "FoodItem": "Raisin Bran Crunch",
+    "Cals_per100grams": 355
+  },
+  {
+    "FoodItem": "Raisin Bran Crunch",
+    "Cals_per100grams": 355
+  },
+  {
+    "FoodItem": "Raisin Nut Bran",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Ready Brek",
+    "Cals_per100grams": 359
+  },
+  {
+    "FoodItem": "Rice Chex",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Rice Krispies",
+    "Cals_per100grams": 394
+  },
+  {
+    "FoodItem": "Scooters",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Shredded Wheat",
+    "Cals_per100grams": 340
+  },
+  {
+    "FoodItem": "Shreddies",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Smart Start",
+    "Cals_per100grams": 371
+  },
+  {
+    "FoodItem": "Special K",
+    "Cals_per100grams": 377
+  },
+  {
+    "FoodItem": "Special K Chocolatey Delight",
+    "Cals_per100grams": 388
+  },
+  {
+    "FoodItem": "Special K Protein Plus",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Special K Red Berries",
+    "Cals_per100grams": 345
+  },
+  {
+    "FoodItem": "Sugar Puffs",
+    "Cals_per100grams": 379
+  },
+  {
+    "FoodItem": "Toasties",
+    "Cals_per100grams": 361
+  },
+  {
+    "FoodItem": "Trix",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Weet-Bix",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Weetabix",
+    "Cals_per100grams": 358
+  },
+  {
+    "FoodItem": "Weetos",
+    "Cals_per100grams": 378
+  },
+  {
+    "FoodItem": "Wheaties",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Cannelloni",
+    "Cals_per100grams": 146
+  },
+  {
+    "FoodItem": "Capellini",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Cappelletti",
+    "Cals_per100grams": 164
+  },
+  {
+    "FoodItem": "Cellophane Noodles",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Cheese Tortellini",
+    "Cals_per100grams": 291
+  },
+  {
+    "FoodItem": "Dampfnudel",
+    "Cals_per100grams": 274
+  },
+  {
+    "FoodItem": "Dumpling Dough",
+    "Cals_per100grams": 99
+  },
+  {
+    "FoodItem": "Durum Wheat Semolina",
+    "Cals_per100grams": 397
+  },
+  {
+    "FoodItem": "Egg Noodles",
+    "Cals_per100grams": 384
+  },
+  {
+    "FoodItem": "Farfalle",
+    "Cals_per100grams": 358
+  },
+  {
+    "FoodItem": "Fettuccine",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Fusilli",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Glass Noodles",
+    "Cals_per100grams": 192
+  },
+  {
+    "FoodItem": "Lasagne Sheets",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Linguine",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Low Carb Pasta",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Macaroni",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Manicotti",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Mostaccioli",
+    "Cals_per100grams": 184
+  },
+  {
+    "FoodItem": "Orecchiette",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Orzo",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Penne",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Penne Rigate",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Pierogi",
+    "Cals_per100grams": 200
+  },
+  {
+    "FoodItem": "Ravioli",
+    "Cals_per100grams": 77
+  },
+  {
+    "FoodItem": "Rigatoni",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Rotini",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Shells",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Shirataki Noodles",
+    "Cals_per100grams": 18
+  },
+  {
+    "FoodItem": "Soy Noodles",
+    "Cals_per100grams": 216
+  },
+  {
+    "FoodItem": "Spaetzle",
+    "Cals_per100grams": 368
+  },
+  {
+    "FoodItem": "Spaghetti",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Spinach Tortellini",
+    "Cals_per100grams": 314
+  },
+  {
+    "FoodItem": "Spirelli",
+    "Cals_per100grams": 367
+  },
+  {
+    "FoodItem": "Tagliatelle",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Tortellini",
+    "Cals_per100grams": 291
+  },
+  {
+    "FoodItem": "Vermicelli",
+    "Cals_per100grams": 368
+  },
+  {
+    "FoodItem": "Whole Grain Noodles",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Whole Grain Spaghetti",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Ziti",
+    "Cals_per100grams": 352
+  },
+  {
+    "FoodItem": "Baby Back Ribs",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Bacon and Eggs",
+    "Cals_per100grams": 252
+  },
+  {
+    "FoodItem": "Baked Beans",
+    "Cals_per100grams": 94
+  },
+  {
+    "FoodItem": "Baked Chicken",
+    "Cals_per100grams": 164
+  },
+  {
+    "FoodItem": "BBQ Ribs",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Beef Stew",
+    "Cals_per100grams": 95
+  },
+  {
+    "FoodItem": "Biryani",
+    "Cals_per100grams": 176
+  },
+  {
+    "FoodItem": "Black Pudding",
+    "Cals_per100grams": 253
+  },
+  {
+    "FoodItem": "Black Rice",
+    "Cals_per100grams": 323
+  },
+  {
+    "FoodItem": "BLT",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Brown Rice",
+    "Cals_per100grams": 362
+  },
+  {
+    "FoodItem": "Burrito",
+    "Cals_per100grams": 163
+  },
+  {
+    "FoodItem": "Butter Chicken",
+    "Cals_per100grams": 140
+  },
+  {
+    "FoodItem": "California Roll",
+    "Cals_per100grams": 93
+  },
+  {
+    "FoodItem": "Chicken Caesar Salad",
+    "Cals_per100grams": 127
+  },
+  {
+    "FoodItem": "Chicken Fried Steak",
+    "Cals_per100grams": 151
+  },
+  {
+    "FoodItem": "Chicken Marsala",
+    "Cals_per100grams": 96
+  },
+  {
+    "FoodItem": "Chicken Parmesan",
+    "Cals_per100grams": 110
+  },
+  {
+    "FoodItem": "Chicken Pot Pie",
+    "Cals_per100grams": 223
+  },
+  {
+    "FoodItem": "Chicken Tikka Masala",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Chili con Carne",
+    "Cals_per100grams": 105
+  },
+  {
+    "FoodItem": "Chimichanga",
+    "Cals_per100grams": 232
+  },
+  {
+    "FoodItem": "Cobb Salad",
+    "Cals_per100grams": 118
+  },
+  {
+    "FoodItem": "Collard Greens",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Corn Dog",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Corned Beef Hash",
+    "Cals_per100grams": 164
+  },
+  {
+    "FoodItem": "Cottage Pie",
+    "Cals_per100grams": 139
+  },
+  {
+    "FoodItem": "Dal",
+    "Cals_per100grams": 330
+  },
+  {
+    "FoodItem": "Deviled Eggs",
+    "Cals_per100grams": 201
+  },
+  {
+    "FoodItem": "Dim Sum",
+    "Cals_per100grams": 193
+  },
+  {
+    "FoodItem": "Dosa",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Enchiladas",
+    "Cals_per100grams": 168
+  },
+  {
+    "FoodItem": "Fajita",
+    "Cals_per100grams": 117
+  },
+  {
+    "FoodItem": "Fish and Chips",
+    "Cals_per100grams": 195
+  },
+  {
+    "FoodItem": "Fried Rice",
+    "Cals_per100grams": 186
+  },
+  {
+    "FoodItem": "Fried Shrimp",
+    "Cals_per100grams": 277
+  },
+  {
+    "FoodItem": "Grilled Cheese Sandwich",
+    "Cals_per100grams": 288
+  },
+  {
+    "FoodItem": "Ham and Cheese Sandwich",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Hummus",
+    "Cals_per100grams": 177
+  },
+  {
+    "FoodItem": "Jambalaya",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Kebab",
+    "Cals_per100grams": 215
+  },
+  {
+    "FoodItem": "Lasagne",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "Mac and Cheese",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Macaroni and Cheese",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Mashed Potatoes",
+    "Cals_per100grams": 83
+  },
+  {
+    "FoodItem": "Meat Pie",
+    "Cals_per100grams": 242
+  },
+  {
+    "FoodItem": "Meatloaf",
+    "Cals_per100grams": 254
+  },
+  {
+    "FoodItem": "Naan",
+    "Cals_per100grams": 310
+  },
+  {
+    "FoodItem": "Orange Chicken",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Pad Thai",
+    "Cals_per100grams": 150
+  },
+  {
+    "FoodItem": "Paella",
+    "Cals_per100grams": 156
+  },
+  {
+    "FoodItem": "Paratha",
+    "Cals_per100grams": 325
+  },
+  {
+    "FoodItem": "Pea Soup",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Peanut Butter Sandwich",
+    "Cals_per100grams": 408
+  },
+  {
+    "FoodItem": "Peking Duck",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "Philly Cheese Steak",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Pizza",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Pork Chop",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "Potato Salad",
+    "Cals_per100grams": 143
+  },
+  {
+    "FoodItem": "Pulled Pork Sandwich",
+    "Cals_per100grams": 211
+  },
+  {
+    "FoodItem": "Ramen",
+    "Cals_per100grams": 447
+  },
+  {
+    "FoodItem": "Ravioli",
+    "Cals_per100grams": 203
+  },
+  {
+    "FoodItem": "Reuben Sandwich",
+    "Cals_per100grams": 208
+  },
+  {
+    "FoodItem": "Roast Beef",
+    "Cals_per100grams": 111
+  },
+  {
+    "FoodItem": "Roast Dinner",
+    "Cals_per100grams": 198
+  },
+  {
+    "FoodItem": "Samosa",
+    "Cals_per100grams": 214
+  },
+  {
+    "FoodItem": "Sausage Roll",
+    "Cals_per100grams": 350
+  },
+  {
+    "FoodItem": "Sausage Rolls",
+    "Cals_per100grams": 297
+  },
+  {
+    "FoodItem": "Shepherds Pie",
+    "Cals_per100grams": 70
+  },
+  {
+    "FoodItem": "Shrimp Cocktail",
+    "Cals_per100grams": 464
+  },
+  {
+    "FoodItem": "Sloppy Joe",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Sloppy Joes",
+    "Cals_per100grams": 154
+  },
+  {
+    "FoodItem": "Spaghetti Bolognese",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "Spring Roll",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Spring Rolls",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Taco",
+    "Cals_per100grams": 217
+  },
+  {
+    "FoodItem": "Tandoori Chicken",
+    "Cals_per100grams": 113
+  },
+  {
+    "FoodItem": "Yorkshire Pudding",
+    "Cals_per100grams": 553
+  },
+  {
+    "FoodItem": "Alphabet Soup",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Bean Stew",
+    "Cals_per100grams": 133
+  },
+  {
+    "FoodItem": "Beef Bouillon",
+    "Cals_per100grams": 3
+  },
+  {
+    "FoodItem": "Beef Noodle Soup",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Beef Soup",
+    "Cals_per100grams": 33
+  },
+  {
+    "FoodItem": "Bouillon",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Broccoli Cheese Soup",
+    "Cals_per100grams": 87
+  },
+  {
+    "FoodItem": "Broccoli Soup",
+    "Cals_per100grams": 87
+  },
+  {
+    "FoodItem": "Cabbage Soup",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Carrot Ginger Soup",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Carrot Soup",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Chicken Bouillon",
+    "Cals_per100grams": 4
+  },
+  {
+    "FoodItem": "Chicken Broth",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Chicken Gumbo Soup",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Chicken Noodle Soup",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Chicken Stock",
+    "Cals_per100grams": 16
+  },
+  {
+    "FoodItem": "Chicken Vegetable Soup",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Chicken with Rice Soup",
+    "Cals_per100grams": 24
+  },
+  {
+    "FoodItem": "Cream of Asparagus Soup",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Cream of Broccoli Soup",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Cream of Celery Soup",
+    "Cals_per100grams": 37
+  },
+  {
+    "FoodItem": "Cream of Chicken Soup",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Cream of Mushroom Soup",
+    "Cals_per100grams": 39
+  },
+  {
+    "FoodItem": "Cream of Onion Soup",
+    "Cals_per100grams": 44
+  },
+  {
+    "FoodItem": "Cream of Potato Soup",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Creamy Chicken Noodle Soup",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "French Onion Soup",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Golden Mushroom Soup",
+    "Cals_per100grams": 65
+  },
+  {
+    "FoodItem": "Goulash",
+    "Cals_per100grams": 1009
+  },
+  {
+    "FoodItem": "Instant Ramen",
+    "Cals_per100grams": 436
+  },
+  {
+    "FoodItem": "Lentil Soup",
+    "Cals_per100grams": 56
+  },
+  {
+    "FoodItem": "Lobster Bisque Soup",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Meatball Soup",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Minestrone",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Mushroom Soup",
+    "Cals_per100grams": 35
+  },
+  {
+    "FoodItem": "Noodle Soup",
+    "Cals_per100grams": 34
+  },
+  {
+    "FoodItem": "Onion Soup",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Oxtail Soup",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Pea Soup",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Potato Soup",
+    "Cals_per100grams": 80
+  },
+  {
+    "FoodItem": "Pumpkin Soup",
+    "Cals_per100grams": 29
+  },
+  {
+    "FoodItem": "Ramen",
+    "Cals_per100grams": 436
+  },
+  {
+    "FoodItem": "Scotch Broth",
+    "Cals_per100grams": 33
+  },
+  {
+    "FoodItem": "Succotash",
+    "Cals_per100grams": 115
+  },
+  {
+    "FoodItem": "Thai Soup",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Tomato Rice Soup",
+    "Cals_per100grams": 47
+  },
+  {
+    "FoodItem": "Tomato Soup",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Vegetable Beef Soup",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Vegetable Broth",
+    "Cals_per100grams": 5
+  },
+  {
+    "FoodItem": "Vegetable Soup",
+    "Cals_per100grams": 28
+  },
+  {
+    "FoodItem": "Vegetable Stock",
+    "Cals_per100grams": 5
+  },
+  {
+    "FoodItem": "Wedding Soup",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Azuki Bean",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Bamboo Shoots",
+    "Cals_per100grams": 27
+  },
+  {
+    "FoodItem": "Bean Curd",
+    "Cals_per100grams": 76
+  },
+  {
+    "FoodItem": "Bean Sprouts",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Bengal Gram",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Black Beans",
+    "Cals_per100grams": 341
+  },
+  {
+    "FoodItem": "Black Chickpeas",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Black Gram",
+    "Cals_per100grams": 341
+  },
+  {
+    "FoodItem": "Brown Lentil",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Butternut",
+    "Cals_per100grams": 612
+  },
+  {
+    "FoodItem": "Chickpeas",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Chili Bean",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Dal",
+    "Cals_per100grams": 230
+  },
+  {
+    "FoodItem": "Deep-Fried Tofu",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Extra-Firm Tofu",
+    "Cals_per100grams": 91
+  },
+  {
+    "FoodItem": "Firm Tofu",
+    "Cals_per100grams": 70
+  },
+  {
+    "FoodItem": "Flageolet",
+    "Cals_per100grams": 85
+  },
+  {
+    "FoodItem": "Fried Bean Curd",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Green Beans",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Green Gram",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Green Lentil",
+    "Cals_per100grams": 257
+  },
+  {
+    "FoodItem": "Kidney Beans",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Lentils",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Lima Beans",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Marron",
+    "Cals_per100grams": 210
+  },
+  {
+    "FoodItem": "Miso",
+    "Cals_per100grams": 199
+  },
+  {
+    "FoodItem": "Mung Beans",
+    "Cals_per100grams": 12
+  },
+  {
+    "FoodItem": "Natto",
+    "Cals_per100grams": 212
+  },
+  {
+    "FoodItem": "Navy Bean",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Okara",
+    "Cals_per100grams": 77
+  },
+  {
+    "FoodItem": "Okra",
+    "Cals_per100grams": 33
+  },
+  {
+    "FoodItem": "Peanuts",
+    "Cals_per100grams": 567
+  },
+  {
+    "FoodItem": "Peas",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Pecan",
+    "Cals_per100grams": 691
+  },
+  {
+    "FoodItem": "Pinto Beans",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Puy Lentils",
+    "Cals_per100grams": 345
+  },
+  {
+    "FoodItem": "Rajma",
+    "Cals_per100grams": 140
+  },
+  {
+    "FoodItem": "Red Beans",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Red Kidney Bean",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Red Lentils",
+    "Cals_per100grams": 329
+  },
+  {
+    "FoodItem": "Refried Beans",
+    "Cals_per100grams": 91
+  },
+  {
+    "FoodItem": "Roasted Soybeans",
+    "Cals_per100grams": 471
+  },
+  {
+    "FoodItem": "Silken Tofu",
+    "Cals_per100grams": 55
+  },
+  {
+    "FoodItem": "Soft Tofu",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Soy Cheese",
+    "Cals_per100grams": 235
+  },
+  {
+    "FoodItem": "Soy Mayonnaise",
+    "Cals_per100grams": 322
+  },
+  {
+    "FoodItem": "Soy Nut Butter",
+    "Cals_per100grams": 562
+  },
+  {
+    "FoodItem": "Soy Nuts",
+    "Cals_per100grams": 471
+  },
+  {
+    "FoodItem": "Soy Yogurt",
+    "Cals_per100grams": 66
+  },
+  {
+    "FoodItem": "Soya Cheese",
+    "Cals_per100grams": 235
+  },
+  {
+    "FoodItem": "Soybeans",
+    "Cals_per100grams": 147
+  },
+  {
+    "FoodItem": "Soynut Butter",
+    "Cals_per100grams": 562
+  },
+  {
+    "FoodItem": "Sugar Peas",
+    "Cals_per100grams": 42
+  },
+  {
+    "FoodItem": "Sweet Peas",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Tempeh",
+    "Cals_per100grams": 193
+  },
+  {
+    "FoodItem": "Textured Soy Protein",
+    "Cals_per100grams": 571
+  },
+  {
+    "FoodItem": "Textured Vegetable Protein",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "Tofu",
+    "Cals_per100grams": 76
+  },
+  {
+    "FoodItem": "White Beans",
+    "Cals_per100grams": 336
+  },
+  {
+    "FoodItem": "Yam Bean",
+    "Cals_per100grams": 38
+  },
+  {
+    "FoodItem": "Yellow Lentils",
+    "Cals_per100grams": 304
+  },
+  {
+    "FoodItem": "Yuba",
+    "Cals_per100grams": 176
+  },
+  {
+    "FoodItem": "Acorn",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Alfalfa Sprouts",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Almonds",
+    "Cals_per100grams": 575
+  },
+  {
+    "FoodItem": "Beechnut",
+    "Cals_per100grams": 576
+  },
+  {
+    "FoodItem": "Brazil Nuts",
+    "Cals_per100grams": 656
+  },
+  {
+    "FoodItem": "Breadfruit",
+    "Cals_per100grams": 191
+  },
+  {
+    "FoodItem": "Butternut",
+    "Cals_per100grams": 612
+  },
+  {
+    "FoodItem": "Cashew",
+    "Cals_per100grams": 553
+  },
+  {
+    "FoodItem": "Chestnut",
+    "Cals_per100grams": 213
+  },
+  {
+    "FoodItem": "Chia Seeds",
+    "Cals_per100grams": 486
+  },
+  {
+    "FoodItem": "Coconut",
+    "Cals_per100grams": 354
+  },
+  {
+    "FoodItem": "Cotton Seeds",
+    "Cals_per100grams": 506
+  },
+  {
+    "FoodItem": "Flaxseed",
+    "Cals_per100grams": 534
+  },
+  {
+    "FoodItem": "Ginkgo Nuts",
+    "Cals_per100grams": 182
+  },
+  {
+    "FoodItem": "Goa Bean",
+    "Cals_per100grams": 409
+  },
+  {
+    "FoodItem": "Hazelnut",
+    "Cals_per100grams": 628
+  },
+  {
+    "FoodItem": "Hickory Nuts",
+    "Cals_per100grams": 657
+  },
+  {
+    "FoodItem": "Lima Beans",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Lotus Seed",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Macadamia Nuts",
+    "Cals_per100grams": 718
+  },
+  {
+    "FoodItem": "Peanuts",
+    "Cals_per100grams": 567
+  },
+  {
+    "FoodItem": "Peas",
+    "Cals_per100grams": 81
+  },
+  {
+    "FoodItem": "Pecan Nuts",
+    "Cals_per100grams": 691
+  },
+  {
+    "FoodItem": "Pecans",
+    "Cals_per100grams": 691
+  },
+  {
+    "FoodItem": "Pili Nuts",
+    "Cals_per100grams": 719
+  },
+  {
+    "FoodItem": "Pine Nuts",
+    "Cals_per100grams": 673
+  },
+  {
+    "FoodItem": "Pinto Beans",
+    "Cals_per100grams": 347
+  },
+  {
+    "FoodItem": "Pistachios",
+    "Cals_per100grams": 562
+  },
+  {
+    "FoodItem": "Poppy Seeds",
+    "Cals_per100grams": 525
+  },
+  {
+    "FoodItem": "Pumpkin Seeds",
+    "Cals_per100grams": 559
+  },
+  {
+    "FoodItem": "Radish Seeds",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Safflower Seeds",
+    "Cals_per100grams": 517
+  },
+  {
+    "FoodItem": "Sesame Seeds",
+    "Cals_per100grams": 573
+  },
+  {
+    "FoodItem": "Smoked Almonds",
+    "Cals_per100grams": 575
+  },
+  {
+    "FoodItem": "Soy Beans",
+    "Cals_per100grams": 147
+  },
+  {
+    "FoodItem": "Sunflower Seeds",
+    "Cals_per100grams": 584
+  },
+  {
+    "FoodItem": "Sweet Chestnut",
+    "Cals_per100grams": 194
+  },
+  {
+    "FoodItem": "Walnuts",
+    "Cals_per100grams": 654
+  },
+  {
+    "FoodItem": "Watermelon",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Almond Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Avocado Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Butter",
+    "Cals_per100grams": 720
+  },
+  {
+    "FoodItem": "Canola Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Coconut Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Cod Liver Oil",
+    "Cals_per100grams": 1000
+  },
+  {
+    "FoodItem": "Corn Oil",
+    "Cals_per100grams": 800
+  },
+  {
+    "FoodItem": "Cottonseed Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Flaxseed Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Ghee",
+    "Cals_per100grams": 120
+  },
+  {
+    "FoodItem": "Goose Fat",
+    "Cals_per100grams": 898
+  },
+  {
+    "FoodItem": "Grape Seed Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Hemp Oil",
+    "Cals_per100grams": 807
+  },
+  {
+    "FoodItem": "Herring Oil",
+    "Cals_per100grams": 902
+  },
+  {
+    "FoodItem": "I can\\’t believe it\\’s not Butter",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Lard",
+    "Cals_per100grams": 902
+  },
+  {
+    "FoodItem": "Macadamia Oil",
+    "Cals_per100grams": 819
+  },
+  {
+    "FoodItem": "Margarine",
+    "Cals_per100grams": 717
+  },
+  {
+    "FoodItem": "Mustard Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Olive Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Palm Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Peanut Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Real Butter",
+    "Cals_per100grams": 720
+  },
+  {
+    "FoodItem": "Rice Bran Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Safflower Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Sardine Oil",
+    "Cals_per100grams": 902
+  },
+  {
+    "FoodItem": "Sesame Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Soybean Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Sunflower Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Walnut Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Almond Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Apricot Kernel Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Argan Oil",
+    "Cals_per100grams": 896
+  },
+  {
+    "FoodItem": "Avocado Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Babassu Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Canola Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Coconut Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Corn Oil",
+    "Cals_per100grams": 800
+  },
+  {
+    "FoodItem": "Cottonseed Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Flaxseed Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Grape Seed Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Hazelnut Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Linseed Oil",
+    "Cals_per100grams": 837
+  },
+  {
+    "FoodItem": "Menhaden Oil",
+    "Cals_per100grams": 911
+  },
+  {
+    "FoodItem": "Mustard Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Oat Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Olive Oil",
+    "Cals_per100grams": 800
+  },
+  {
+    "FoodItem": "Palm Kernel Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Palm Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Peanut Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Poppy Seed Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Pumpkin Seed Oil",
+    "Cals_per100grams": 880
+  },
+  {
+    "FoodItem": "Rice Bran Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Safflower Oil",
+    "Cals_per100grams": 857
+  },
+  {
+    "FoodItem": "Salmon Oil",
+    "Cals_per100grams": 911
+  },
+  {
+    "FoodItem": "Sesame Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Shea Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Soy Oil",
+    "Cals_per100grams": 882
+  },
+  {
+    "FoodItem": "Sunflower Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Tomato Seed Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Vegetable Oil",
+    "Cals_per100grams": 800
+  },
+  {
+    "FoodItem": "Walnut Oil",
+    "Cals_per100grams": 889
+  },
+  {
+    "FoodItem": "Wheat Germ Oil",
+    "Cals_per100grams": 929
+  },
+  {
+    "FoodItem": "Agar-Agar",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "Agave Syrup",
+    "Cals_per100grams": 310
+  },
+  {
+    "FoodItem": "All Purpose Flour",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Almond Extract",
+    "Cals_per100grams": 258
+  },
+  {
+    "FoodItem": "Almonds",
+    "Cals_per100grams": 529
+  },
+  {
+    "FoodItem": "Apple Pie Filling",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Baking Powder",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Baking Soda",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Bread Flour",
+    "Cals_per100grams": 361
+  },
+  {
+    "FoodItem": "Brittle",
+    "Cals_per100grams": 592
+  },
+  {
+    "FoodItem": "Brown Sugar",
+    "Cals_per100grams": 395
+  },
+  {
+    "FoodItem": "Buttermilk",
+    "Cals_per100grams": 62
+  },
+  {
+    "FoodItem": "Butterscotch Chips",
+    "Cals_per100grams": 539
+  },
+  {
+    "FoodItem": "Cake Flour",
+    "Cals_per100grams": 362
+  },
+  {
+    "FoodItem": "Candied Orange Peel",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Cane Sugar",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Chocolate Chips",
+    "Cals_per100grams": 467
+  },
+  {
+    "FoodItem": "Chocolate Sprinkles",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Cocoa Powder",
+    "Cals_per100grams": 228
+  },
+  {
+    "FoodItem": "Coconut Flakes",
+    "Cals_per100grams": 456
+  },
+  {
+    "FoodItem": "Coconut Milk",
+    "Cals_per100grams": 50
+  },
+  {
+    "FoodItem": "Corn Flour",
+    "Cals_per100grams": 361
+  },
+  {
+    "FoodItem": "Corn Syrup",
+    "Cals_per100grams": 281
+  },
+  {
+    "FoodItem": "Cornmeal",
+    "Cals_per100grams": 362
+  },
+  {
+    "FoodItem": "Cornstarch",
+    "Cals_per100grams": 381
+  },
+  {
+    "FoodItem": "Couverture",
+    "Cals_per100grams": 600
+  },
+  {
+    "FoodItem": "Cream Cheese",
+    "Cals_per100grams": 54
+  },
+  {
+    "FoodItem": "Cream of Tartar",
+    "Cals_per100grams": 258
+  },
+  {
+    "FoodItem": "Crystallized Ginger",
+    "Cals_per100grams": 335
+  },
+  {
+    "FoodItem": "Custard Powder",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Dark Rum",
+    "Cals_per100grams": 216
+  },
+  {
+    "FoodItem": "Dextrose",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Dried Apricots",
+    "Cals_per100grams": 241
+  },
+  {
+    "FoodItem": "Dried Cranberries",
+    "Cals_per100grams": 308
+  },
+  {
+    "FoodItem": "Dried Figs",
+    "Cals_per100grams": 249
+  },
+  {
+    "FoodItem": "Dried Prunes",
+    "Cals_per100grams": 107
+  },
+  {
+    "FoodItem": "Duck Egg",
+    "Cals_per100grams": 185
+  },
+  {
+    "FoodItem": "Egg",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Egg Nog",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Egg White",
+    "Cals_per100grams": 13
+  },
+  {
+    "FoodItem": "Egg Yolk",
+    "Cals_per100grams": 322
+  },
+  {
+    "FoodItem": "Evaporated Milk",
+    "Cals_per100grams": 134
+  },
+  {
+    "FoodItem": "Flour",
+    "Cals_per100grams": 364
+  },
+  {
+    "FoodItem": "Fructose",
+    "Cals_per100grams": 368
+  },
+  {
+    "FoodItem": "Gelatin",
+    "Cals_per100grams": 335
+  },
+  {
+    "FoodItem": "Glucose",
+    "Cals_per100grams": 286
+  },
+  {
+    "FoodItem": "Glucose Syrup",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Granulated Sugar",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Ground Cinnamon",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Hazelnuts",
+    "Cals_per100grams": 628
+  },
+  {
+    "FoodItem": "Heavy Cream",
+    "Cals_per100grams": 345
+  },
+  {
+    "FoodItem": "Jaggery",
+    "Cals_per100grams": 383
+  },
+  {
+    "FoodItem": "Lemon Pie Filling",
+    "Cals_per100grams": 143
+  },
+  {
+    "FoodItem": "Malt Powder",
+    "Cals_per100grams": 361
+  },
+  {
+    "FoodItem": "Malted Milk",
+    "Cals_per100grams": 405
+  },
+  {
+    "FoodItem": "Maltitol",
+    "Cals_per100grams": 210
+  },
+  {
+    "FoodItem": "Maltodextrin",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Maltose",
+    "Cals_per100grams": 344
+  },
+  {
+    "FoodItem": "Maple Syrup",
+    "Cals_per100grams": 270
+  },
+  {
+    "FoodItem": "Molasses",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Nonpareils",
+    "Cals_per100grams": 475
+  },
+  {
+    "FoodItem": "Peppermint Extract",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Poppy Seeds",
+    "Cals_per100grams": 525
+  },
+  {
+    "FoodItem": "Powdered Milk",
+    "Cals_per100grams": 496
+  },
+  {
+    "FoodItem": "Powdered Sugar",
+    "Cals_per100grams": 389
+  },
+  {
+    "FoodItem": "Protein Powder",
+    "Cals_per100grams": 411
+  },
+  {
+    "FoodItem": "Raisins",
+    "Cals_per100grams": 474
+  },
+  {
+    "FoodItem": "Rice Milk",
+    "Cals_per100grams": 49
+  },
+  {
+    "FoodItem": "Rock Sugar",
+    "Cals_per100grams": 625
+  },
+  {
+    "FoodItem": "Rolled Oats",
+    "Cals_per100grams": 384
+  },
+  {
+    "FoodItem": "Rum",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Semolina Flour",
+    "Cals_per100grams": 350
+  },
+  {
+    "FoodItem": "Sesame Seeds",
+    "Cals_per100grams": 573
+  },
+  {
+    "FoodItem": "Shredded Coconut",
+    "Cals_per100grams": 501
+  },
+  {
+    "FoodItem": "Sorbitol",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Soy Milk",
+    "Cals_per100grams": 41
+  },
+  {
+    "FoodItem": "Soy Protein Powder",
+    "Cals_per100grams": 338
+  },
+  {
+    "FoodItem": "Sprinkles",
+    "Cals_per100grams": 500
+  },
+  {
+    "FoodItem": "Starch",
+    "Cals_per100grams": 381
+  },
+  {
+    "FoodItem": "Strawberry Preserves",
+    "Cals_per100grams": 278
+  },
+  {
+    "FoodItem": "Sucrose",
+    "Cals_per100grams": 387
+  },
+  {
+    "FoodItem": "Sugar",
+    "Cals_per100grams": 405
+  },
+  {
+    "FoodItem": "Sunflower Seeds",
+    "Cals_per100grams": 117
+  },
+  {
+    "FoodItem": "Sweetened Condensed Milk",
+    "Cals_per100grams": 321
+  },
+  {
+    "FoodItem": "Sweetener",
+    "Cals_per100grams": 360
+  },
+  {
+    "FoodItem": "Unsalted Butter",
+    "Cals_per100grams": 717
+  },
+  {
+    "FoodItem": "Vanilla Extract",
+    "Cals_per100grams": 288
+  },
+  {
+    "FoodItem": "Vanilla Sugar",
+    "Cals_per100grams": 357
+  },
+  {
+    "FoodItem": "Vegetable Oil",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Vegetable Shortening",
+    "Cals_per100grams": 884
+  },
+  {
+    "FoodItem": "Walnuts",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Whole Milk",
+    "Cals_per100grams": 61
+  },
+  {
+    "FoodItem": "Whole Wheat Flour",
+    "Cals_per100grams": 340
+  },
+  {
+    "FoodItem": "Xylitol",
+    "Cals_per100grams": 240
+  },
+  {
+    "FoodItem": "Yeast (dry)",
+    "Cals_per100grams": 325
+  },
+  {
+    "FoodItem": "Anchovy",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Bluefish",
+    "Cals_per100grams": 159
+  },
+  {
+    "FoodItem": "Bream",
+    "Cals_per100grams": 135
+  },
+  {
+    "FoodItem": "Butterfish",
+    "Cals_per100grams": 187
+  },
+  {
+    "FoodItem": "Calamari",
+    "Cals_per100grams": 175
+  },
+  {
+    "FoodItem": "Carp",
+    "Cals_per100grams": 162
+  },
+  {
+    "FoodItem": "Caviar",
+    "Cals_per100grams": 264
+  },
+  {
+    "FoodItem": "Clam",
+    "Cals_per100grams": 148
+  },
+  {
+    "FoodItem": "Cod",
+    "Cals_per100grams": 105
+  },
+  {
+    "FoodItem": "Crawfish",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Crayfish",
+    "Cals_per100grams": 87
+  },
+  {
+    "FoodItem": "Eel",
+    "Cals_per100grams": 236
+  },
+  {
+    "FoodItem": "Fish Fingers",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Fish Sticks",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Flounder",
+    "Cals_per100grams": 86
+  },
+  {
+    "FoodItem": "Grouper",
+    "Cals_per100grams": 118
+  },
+  {
+    "FoodItem": "Haddock",
+    "Cals_per100grams": 90
+  },
+  {
+    "FoodItem": "Hake",
+    "Cals_per100grams": 71
+  },
+  {
+    "FoodItem": "Halibut",
+    "Cals_per100grams": 111
+  },
+  {
+    "FoodItem": "Herring",
+    "Cals_per100grams": 203
+  },
+  {
+    "FoodItem": "Hoki",
+    "Cals_per100grams": 121
+  },
+  {
+    "FoodItem": "Kipper",
+    "Cals_per100grams": 217
+  },
+  {
+    "FoodItem": "Ling",
+    "Cals_per100grams": 109
+  },
+  {
+    "FoodItem": "Lobster",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Mackerel",
+    "Cals_per100grams": 262
+  },
+  {
+    "FoodItem": "Milkfish",
+    "Cals_per100grams": 190
+  },
+  {
+    "FoodItem": "Monkfish",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Mullet",
+    "Cals_per100grams": 150
+  },
+  {
+    "FoodItem": "Mussel",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Octopus",
+    "Cals_per100grams": 164
+  },
+  {
+    "FoodItem": "Pickerel",
+    "Cals_per100grams": 111
+  },
+  {
+    "FoodItem": "Pickled Herring",
+    "Cals_per100grams": 262
+  },
+  {
+    "FoodItem": "Pike",
+    "Cals_per100grams": 113
+  },
+  {
+    "FoodItem": "Plaice",
+    "Cals_per100grams": 91
+  },
+  {
+    "FoodItem": "Pollack",
+    "Cals_per100grams": 111
+  },
+  {
+    "FoodItem": "Red Snapper",
+    "Cals_per100grams": 128
+  },
+  {
+    "FoodItem": "Redfish",
+    "Cals_per100grams": 94
+  },
+  {
+    "FoodItem": "Rollmops",
+    "Cals_per100grams": 171
+  },
+  {
+    "FoodItem": "Salmon",
+    "Cals_per100grams": 206
+  },
+  {
+    "FoodItem": "Sardines",
+    "Cals_per100grams": 208
+  },
+  {
+    "FoodItem": "Scallops",
+    "Cals_per100grams": 111
+  },
+  {
+    "FoodItem": "Scampi",
+    "Cals_per100grams": 84
+  },
+  {
+    "FoodItem": "Sea Bass",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Shad",
+    "Cals_per100grams": 252
+  },
+  {
+    "FoodItem": "Shark",
+    "Cals_per100grams": 130
+  },
+  {
+    "FoodItem": "Smelt",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Sole",
+    "Cals_per100grams": 86
+  },
+  {
+    "FoodItem": "Squid",
+    "Cals_per100grams": 92
+  },
+  {
+    "FoodItem": "Sturgeon",
+    "Cals_per100grams": 135
+  },
+  {
+    "FoodItem": "Sushi",
+    "Cals_per100grams": 150
+  },
+  {
+    "FoodItem": "Swordfish",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Triggerfish",
+    "Cals_per100grams": 93
+  },
+  {
+    "FoodItem": "Trout",
+    "Cals_per100grams": 190
+  },
+  {
+    "FoodItem": "Tuna",
+    "Cals_per100grams": 132
+  },
+  {
+    "FoodItem": "Tuna Salad",
+    "Cals_per100grams": 187
+  },
+  {
+    "FoodItem": "Turbot",
+    "Cals_per100grams": 122
+  },
+  {
+    "FoodItem": "Wahoo",
+    "Cals_per100grams": 167
+  },
+  {
+    "FoodItem": "Whitefish",
+    "Cals_per100grams": 172
+  },
+  {
+    "FoodItem": "Whiting",
+    "Cals_per100grams": 116
+  },
+  {
+    "FoodItem": "Zander",
+    "Cals_per100grams": 84
+  },
+  {
+    "FoodItem": "Almond Extract",
+    "Cals_per100grams": 374
+  },
+  {
+    "FoodItem": "Anise",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Anise Seed",
+    "Cals_per100grams": 337
+  },
+  {
+    "FoodItem": "Arrowroot",
+    "Cals_per100grams": 65
+  },
+  {
+    "FoodItem": "Arugula",
+    "Cals_per100grams": 25
+  },
+  {
+    "FoodItem": "Balsamic Vinegar",
+    "Cals_per100grams": 88
+  },
+  {
+    "FoodItem": "Basil",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Black Pepper",
+    "Cals_per100grams": 251
+  },
+  {
+    "FoodItem": "Black Sesame Seeds",
+    "Cals_per100grams": 573
+  },
+  {
+    "FoodItem": "Broth",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Capers",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Caraway Seeds",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "Cardamom",
+    "Cals_per100grams": 311
+  },
+  {
+    "FoodItem": "Cassava",
+    "Cals_per100grams": 160
+  },
+  {
+    "FoodItem": "Cayenne Pepper",
+    "Cals_per100grams": 318
+  },
+  {
+    "FoodItem": "Chard",
+    "Cals_per100grams": 19
+  },
+  {
+    "FoodItem": "Chicory Greens",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Chicory Roots",
+    "Cals_per100grams": 72
+  },
+  {
+    "FoodItem": "Chili",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Chili Powder",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Chives",
+    "Cals_per100grams": 30
+  },
+  {
+    "FoodItem": "Cider Vinegar",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Cilantro",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Cinnamon",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "Cloves",
+    "Cals_per100grams": 274
+  },
+  {
+    "FoodItem": "Coriander",
+    "Cals_per100grams": 23
+  },
+  {
+    "FoodItem": "Cream of Tartar",
+    "Cals_per100grams": 258
+  },
+  {
+    "FoodItem": "Cress",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Crystallized Ginger",
+    "Cals_per100grams": 335
+  },
+  {
+    "FoodItem": "Cumin",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Cumin Seed",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Curry",
+    "Cals_per100grams": 325
+  },
+  {
+    "FoodItem": "Dandelion",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Dill",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Dill Weed",
+    "Cals_per100grams": 43
+  },
+  {
+    "FoodItem": "Fennel",
+    "Cals_per100grams": 31
+  },
+  {
+    "FoodItem": "Fennel Seed",
+    "Cals_per100grams": 345
+  },
+  {
+    "FoodItem": "Fenugreek",
+    "Cals_per100grams": 323
+  },
+  {
+    "FoodItem": "Garlic",
+    "Cals_per100grams": 149
+  },
+  {
+    "FoodItem": "Garlic Powder",
+    "Cals_per100grams": 331
+  },
+  {
+    "FoodItem": "Garlic Salt",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Ginger",
+    "Cals_per100grams": 80
+  },
+  {
+    "FoodItem": "Grape Leaves",
+    "Cals_per100grams": 93
+  },
+  {
+    "FoodItem": "Ground Ginger",
+    "Cals_per100grams": 335
+  },
+  {
+    "FoodItem": "Horseradish",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Hot Pepper",
+    "Cals_per100grams": 318
+  },
+  {
+    "FoodItem": "Iodized Salt",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Jalapeno",
+    "Cals_per100grams": 13
+  },
+  {
+    "FoodItem": "Juniper",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Lemon Grass",
+    "Cals_per100grams": 99
+  },
+  {
+    "FoodItem": "Licorice",
+    "Cals_per100grams": 375
+  },
+  {
+    "FoodItem": "Maggi",
+    "Cals_per100grams": 104
+  },
+  {
+    "FoodItem": "Marjoram",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Minced Onion",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Mint",
+    "Cals_per100grams": 70
+  },
+  {
+    "FoodItem": "Mustard Seed",
+    "Cals_per100grams": 508
+  },
+  {
+    "FoodItem": "Nutmeg",
+    "Cals_per100grams": 525
+  },
+  {
+    "FoodItem": "Okra",
+    "Cals_per100grams": 33
+  },
+  {
+    "FoodItem": "Onion",
+    "Cals_per100grams": 40
+  },
+  {
+    "FoodItem": "Onion Powder",
+    "Cals_per100grams": 341
+  },
+  {
+    "FoodItem": "Orange Peel",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Oregano",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "Paprika",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Parsley",
+    "Cals_per100grams": 36
+  },
+  {
+    "FoodItem": "Parsnip",
+    "Cals_per100grams": 75
+  },
+  {
+    "FoodItem": "Pepper",
+    "Cals_per100grams": 251
+  },
+  {
+    "FoodItem": "Poppy Seed",
+    "Cals_per100grams": 525
+  },
+  {
+    "FoodItem": "Poultry Seasoning",
+    "Cals_per100grams": 307
+  },
+  {
+    "FoodItem": "Pumpkin Pie Spice",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Red Pepper",
+    "Cals_per100grams": 251
+  },
+  {
+    "FoodItem": "Red Wine Vinegar",
+    "Cals_per100grams": 19
+  },
+  {
+    "FoodItem": "Rosemary",
+    "Cals_per100grams": 131
+  },
+  {
+    "FoodItem": "Saffron",
+    "Cals_per100grams": 310
+  },
+  {
+    "FoodItem": "Sage",
+    "Cals_per100grams": 315
+  },
+  {
+    "FoodItem": "Salt",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Savory",
+    "Cals_per100grams": 272
+  },
+  {
+    "FoodItem": "Sea Salt",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Serrano Pepper",
+    "Cals_per100grams": 32
+  },
+  {
+    "FoodItem": "Sesame Seeds",
+    "Cals_per100grams": 573
+  },
+  {
+    "FoodItem": "Stevia",
+    "Cals_per100grams": 0
+  },
+  {
+    "FoodItem": "Tamarind",
+    "Cals_per100grams": 239
+  },
+  {
+    "FoodItem": "Taro",
+    "Cals_per100grams": 112
+  },
+  {
+    "FoodItem": "Tarragon",
+    "Cals_per100grams": 295
+  },
+  {
+    "FoodItem": "Thyme",
+    "Cals_per100grams": 276
+  },
+  {
+    "FoodItem": "Turmeric",
+    "Cals_per100grams": 354
+  },
+  {
+    "FoodItem": "Vanilla Bean",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Vanilla Extract",
+    "Cals_per100grams": 288
+  },
+  {
+    "FoodItem": "Vinegar",
+    "Cals_per100grams": 18
+  },
+  {
+    "FoodItem": "White Pepper",
+    "Cals_per100grams": 296
+  },
+  {
+    "FoodItem": "Yam",
+    "Cals_per100grams": 118
+  },
+  {
+    "FoodItem": "Apple Pie",
+    "Cals_per100grams": 237
+  },
+  {
+    "FoodItem": "Apple Turnover",
+    "Cals_per100grams": 348
+  },
+  {
+    "FoodItem": "Bagel",
+    "Cals_per100grams": 257
+  },
+  {
+    "FoodItem": "Baguette",
+    "Cals_per100grams": 274
+  },
+  {
+    "FoodItem": "Banana Bread",
+    "Cals_per100grams": 326
+  },
+  {
+    "FoodItem": "Banana Nut Bread",
+    "Cals_per100grams": 326
+  },
+  {
+    "FoodItem": "Beer Bread",
+    "Cals_per100grams": 227
+  },
+  {
+    "FoodItem": "Biscuit",
+    "Cals_per100grams": 269
+  },
+  {
+    "FoodItem": "Black Bread",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Bran Muffins",
+    "Cals_per100grams": 270
+  },
+  {
+    "FoodItem": "Bread Pudding",
+    "Cals_per100grams": 153
+  },
+  {
+    "FoodItem": "Breadsticks",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Brioche",
+    "Cals_per100grams": 346
+  },
+  {
+    "FoodItem": "Brown Bread",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Brownies",
+    "Cals_per100grams": 405
+  },
+  {
+    "FoodItem": "Bun",
+    "Cals_per100grams": 316
+  },
+  {
+    "FoodItem": "Cannoli",
+    "Cals_per100grams": 254
+  },
+  {
+    "FoodItem": "Caramel Cake",
+    "Cals_per100grams": 385
+  },
+  {
+    "FoodItem": "Challah",
+    "Cals_per100grams": 283
+  },
+  {
+    "FoodItem": "Chapati",
+    "Cals_per100grams": 240
+  },
+  {
+    "FoodItem": "Ciabatta",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Cinnamon Bun",
+    "Cals_per100grams": 436
+  },
+  {
+    "FoodItem": "Coffee Cake",
+    "Cals_per100grams": 418
+  },
+  {
+    "FoodItem": "Conchas/Mexican Sweet Bread",
+    "Cals_per100grams": 353
+  },
+  {
+    "FoodItem": "Cornbread",
+    "Cals_per100grams": 179
+  },
+  {
+    "FoodItem": "Crepes",
+    "Cals_per100grams": 224
+  },
+  {
+    "FoodItem": "Croissant",
+    "Cals_per100grams": 406
+  },
+  {
+    "FoodItem": "Crumpet",
+    "Cals_per100grams": 178
+  },
+  {
+    "FoodItem": "Cupcakes",
+    "Cals_per100grams": 305
+  },
+  {
+    "FoodItem": "Donut/Doughnut",
+    "Cals_per100grams": 421
+  },
+  {
+    "FoodItem": "Dosa",
+    "Cals_per100grams": 209
+  },
+  {
+    "FoodItem": "Empanada",
+    "Cals_per100grams": 335
+  },
+  {
+    "FoodItem": "English Muffin",
+    "Cals_per100grams": 227
+  },
+  {
+    "FoodItem": "Flatbread",
+    "Cals_per100grams": 311
+  },
+  {
+    "FoodItem": "Focaccia",
+    "Cals_per100grams": 249
+  },
+  {
+    "FoodItem": "Garlic Bread",
+    "Cals_per100grams": 350
+  },
+  {
+    "FoodItem": "Hot Dog Buns",
+    "Cals_per100grams": 279
+  },
+  {
+    "FoodItem": "Italian Bread",
+    "Cals_per100grams": 271
+  },
+  {
+    "FoodItem": "Latkes",
+    "Cals_per100grams": 189
+  },
+  {
+    "FoodItem": "Matzo Bread",
+    "Cals_per100grams": 351
+  },
+  {
+    "FoodItem": "Monkey Bread",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Muffin",
+    "Cals_per100grams": 296
+  },
+  {
+    "FoodItem": "Multi-Grain Bread",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "Naan",
+    "Cals_per100grams": 275
+  },
+  {
+    "FoodItem": "Oatmeal Cookies",
+    "Cals_per100grams": 450
+  },
+  {
+    "FoodItem": "Oatmeal Raisin Cookies",
+    "Cals_per100grams": 435
+  },
+  {
+    "FoodItem": "Pan de Sal",
+    "Cals_per100grams": 293
+  },
+  {
+    "FoodItem": "Pancake",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Pandesal",
+    "Cals_per100grams": 293
+  },
+  {
+    "FoodItem": "Panettone",
+    "Cals_per100grams": 318
+  },
+  {
+    "FoodItem": "Pide",
+    "Cals_per100grams": 268
+  },
+  {
+    "FoodItem": "Pie",
+    "Cals_per100grams": 237
+  },
+  {
+    "FoodItem": "Pita Bread",
+    "Cals_per100grams": 275
+  },
+  {
+    "FoodItem": "Potato Bread",
+    "Cals_per100grams": 266
+  },
+  {
+    "FoodItem": "Pretzel",
+    "Cals_per100grams": 338
+  },
+  {
+    "FoodItem": "Pretzel Roll",
+    "Cals_per100grams": 338
+  },
+  {
+    "FoodItem": "Puff Pastry",
+    "Cals_per100grams": 558
+  },
+  {
+    "FoodItem": "Pumpernickel",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Raisin Bread",
+    "Cals_per100grams": 274
+  },
+  {
+    "FoodItem": "Roll",
+    "Cals_per100grams": 316
+  },
+  {
+    "FoodItem": "Roti",
+    "Cals_per100grams": 264
+  },
+  {
+    "FoodItem": "Rye Bread",
+    "Cals_per100grams": 259
+  },
+  {
+    "FoodItem": "Sandwich",
+    "Cals_per100grams": 304
+  },
+  {
+    "FoodItem": "Sandwich Bread",
+    "Cals_per100grams": 251
+  },
+  {
+    "FoodItem": "Scone",
+    "Cals_per100grams": 362
+  },
+  {
+    "FoodItem": "Shortcrust Pastry",
+    "Cals_per100grams": 544
+  },
+  {
+    "FoodItem": "Soda Bread",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Souffle",
+    "Cals_per100grams": 204
+  },
+  {
+    "FoodItem": "Sourdough Bread",
+    "Cals_per100grams": 289
+  },
+  {
+    "FoodItem": "Spanakopita",
+    "Cals_per100grams": 246
+  },
+  {
+    "FoodItem": "Spice Cake",
+    "Cals_per100grams": 332
+  },
+  {
+    "FoodItem": "Sweet Rolls",
+    "Cals_per100grams": 333
+  },
+  {
+    "FoodItem": "Swiss Roll",
+    "Cals_per100grams": 313
+  },
+  {
+    "FoodItem": "Toast",
+    "Cals_per100grams": 261
+  },
+  {
+    "FoodItem": "Tortilla",
+    "Cals_per100grams": 297
+  },
+  {
+    "FoodItem": "Tortilla Bread",
+    "Cals_per100grams": 265
+  },
+  {
+    "FoodItem": "White Bread",
+    "Cals_per100grams": 238
+  },
+  {
+    "FoodItem": "Whole Wheat Bread",
+    "Cals_per100grams": 247
+  },
+  {
+    "FoodItem": "1000 Island Dressing",
+    "Cals_per100grams": 370
+  },
+  {
+    "FoodItem": "Ajvar",
+    "Cals_per100grams": 18
+  },
+  {
+    "FoodItem": "Arrabiata Sauce",
+    "Cals_per100grams": 36
+  },
+  {
+    "FoodItem": "Balsamic Vinaigrette Dressing",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Barbecue Sauce",
+    "Cals_per100grams": 150
+  },
+  {
+    "FoodItem": "Bechamel Sauce",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "Bernaise Sauce",
+    "Cals_per100grams": 414
+  },
+  {
+    "FoodItem": "Blue Cheese Dressing",
+    "Cals_per100grams": 533
+  },
+  {
+    "FoodItem": "Bolognese",
+    "Cals_per100grams": 106
+  },
+  {
+    "FoodItem": "Buttermilk Ranch Dressing",
+    "Cals_per100grams": 533
+  },
+  {
+    "FoodItem": "Caesar Dressing",
+    "Cals_per100grams": 429
+  },
+  {
+    "FoodItem": "Catalina Dressing",
+    "Cals_per100grams": 282
+  },
+  {
+    "FoodItem": "Chasseur Sauce",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Chili Sauce",
+    "Cals_per100grams": 112
+  },
+  {
+    "FoodItem": "Cream Sauce",
+    "Cals_per100grams": 180
+  },
+  {
+    "FoodItem": "Curry Ketchup",
+    "Cals_per100grams": 124
+  },
+  {
+    "FoodItem": "Curry Sauce",
+    "Cals_per100grams": 26
+  },
+  {
+    "FoodItem": "French Dressing",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Gravy",
+    "Cals_per100grams": 53
+  },
+  {
+    "FoodItem": "Greek Dressing",
+    "Cals_per100grams": 467
+  },
+  {
+    "FoodItem": "Hamburger Sauce",
+    "Cals_per100grams": 383
+  },
+  {
+    "FoodItem": "Harissa",
+    "Cals_per100grams": 52
+  },
+  {
+    "FoodItem": "Hollandaise Sauce",
+    "Cals_per100grams": 535
+  },
+  {
+    "FoodItem": "Honey Mustard Dressing",
+    "Cals_per100grams": 464
+  },
+  {
+    "FoodItem": "Horseradish",
+    "Cals_per100grams": 48
+  },
+  {
+    "FoodItem": "Italian Dressing",
+    "Cals_per100grams": 293
+  },
+  {
+    "FoodItem": "Ketchup",
+    "Cals_per100grams": 100
+  },
+  {
+    "FoodItem": "Mayonnaise",
+    "Cals_per100grams": 692
+  },
+  {
+    "FoodItem": "Mustard",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Mustard Sauce",
+    "Cals_per100grams": 645
+  },
+  {
+    "FoodItem": "Orange Sauce",
+    "Cals_per100grams": 179
+  },
+  {
+    "FoodItem": "Pesto",
+    "Cals_per100grams": 458
+  },
+  {
+    "FoodItem": "Ranch Dressing",
+    "Cals_per100grams": 510
+  },
+  {
+    "FoodItem": "Remoulade Sauce",
+    "Cals_per100grams": 635
+  },
+  {
+    "FoodItem": "Russian Dressing",
+    "Cals_per100grams": 400
+  },
+  {
+    "FoodItem": "Salad Dressing",
+    "Cals_per100grams": 449
+  },
+  {
+    "FoodItem": "Sambal Oelek",
+    "Cals_per100grams": 21
+  },
+  {
+    "FoodItem": "Sesame Ginger Dressing",
+    "Cals_per100grams": 464
+  },
+  {
+    "FoodItem": "Sesame Paste",
+    "Cals_per100grams": 595
+  },
+  {
+    "FoodItem": "Sour Cream",
+    "Cals_per100grams": 217
+  },
+  {
+    "FoodItem": "Sour Cream Sauce",
+    "Cals_per100grams": 60
+  },
+  {
+    "FoodItem": "Soy Sauce",
+    "Cals_per100grams": 67
+  },
+  {
+    "FoodItem": "Sweet and Sour Sauce",
+    "Cals_per100grams": 179
+  },
+  {
+    "FoodItem": "Tabasco",
+    "Cals_per100grams": 70
+  },
+  {
+    "FoodItem": "Teriyaki Sauce",
+    "Cals_per100grams": 89
+  },
+  {
+    "FoodItem": "Thai Curry Paste",
+    "Cals_per100grams": 155
+  },
+  {
+    "FoodItem": "Tomato Paste",
+    "Cals_per100grams": 82
+  },
+  {
+    "FoodItem": "Tomato Puree",
+    "Cals_per100grams": 38
+  },
+  {
+    "FoodItem": "Tomato Sauce",
+    "Cals_per100grams": 24
+  },
+  {
+    "FoodItem": "Tzatziki",
+    "Cals_per100grams": 94
+  },
+  {
+    "FoodItem": "Vinaigrette",
+    "Cals_per100grams": 120
+  },
+  {
+    "FoodItem": "Worcestershire Sauce",
+    "Cals_per100grams": 78
+  },
+  {
+    "FoodItem": "Yogurt Dressing",
+    "Cals_per100grams": 45
+  },
+  {
+    "FoodItem": "Zesty Italian Dressing",
+    "Cals_per100grams": 267
+  },
+  {
+    "FoodItem": "Almond Butter",
+    "Cals_per100grams": 614
+  },
+  {
+    "FoodItem": "Apple Butter",
+    "Cals_per100grams": 173
+  },
+  {
+    "FoodItem": "Applesauce",
+    "Cals_per100grams": 68
+  },
+  {
+    "FoodItem": "Apricot Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Blackberry Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Blackcurrant Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Blueberry Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Cheese Spread",
+    "Cals_per100grams": 290
+  },
+  {
+    "FoodItem": "Cherry Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Chocolate Philadelphia",
+    "Cals_per100grams": 287
+  },
+  {
+    "FoodItem": "Chocolate Spread",
+    "Cals_per100grams": 541
+  },
+  {
+    "FoodItem": "Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Egg",
+    "Cals_per100grams": 97
+  },
+  {
+    "FoodItem": "Grape Jelly",
+    "Cals_per100grams": 255
+  },
+  {
+    "FoodItem": "Honey",
+    "Cals_per100grams": 304
+  },
+  {
+    "FoodItem": "Jelly",
+    "Cals_per100grams": 278
+  },
+  {
+    "FoodItem": "Jif Peanut Butter",
+    "Cals_per100grams": 580
+  },
+  {
+    "FoodItem": "Liverwurst",
+    "Cals_per100grams": 305
+  },
+  {
+    "FoodItem": "Margarine",
+    "Cals_per100grams": 717
+  },
+  {
+    "FoodItem": "Marmite",
+    "Cals_per100grams": 225
+  },
+  {
+    "FoodItem": "Marshmallow Fluff",
+    "Cals_per100grams": 666
+  },
+  {
+    "FoodItem": "Nutella",
+    "Cals_per100grams": 544
+  },
+  {
+    "FoodItem": "Olive Spread",
+    "Cals_per100grams": 550
+  },
+  {
+    "FoodItem": "Pate",
+    "Cals_per100grams": 319
+  },
+  {
+    "FoodItem": "Peanut Butter",
+    "Cals_per100grams": 589
+  },
+  {
+    "FoodItem": "Peter Pan Peanut Butter",
+    "Cals_per100grams": 609
+  },
+  {
+    "FoodItem": "Philadelphia Cream Cheese",
+    "Cals_per100grams": 342
+  },
+  {
+    "FoodItem": "Plum Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Salted Butter",
+    "Cals_per100grams": 717
+  },
+  {
+    "FoodItem": "Skippy Peanut Butter",
+    "Cals_per100grams": 594
+  },
+  {
+    "FoodItem": "Smuckers Strawberry Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Strawberry Jam",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Strawberry Jelly",
+    "Cals_per100grams": 250
+  },
+  {
+    "FoodItem": "Sunbutter",
+    "Cals_per100grams": 617
+  },
+  {
+    "FoodItem": "Sunflower Butter",
+    "Cals_per100grams": 617
+  },
+  {
+    "FoodItem": "Tapenade",
+    "Cals_per100grams": 233
+  },
+  {
+    "FoodItem": "Unsalted Butter",
+    "Cals_per100grams": 717
+  },
+  {
+    "FoodItem": "Vegemite",
+    "Cals_per100grams": 180
+  },
+  {
+    "FoodItem": "Wild Honey",
+    "Cals_per100grams": 286
+  }
+]

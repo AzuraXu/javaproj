@@ -1,0 +1,994 @@
+[
+  {
+    "activity": "Cycling, mountain bike, bmx",
+    "cal_per_lb": 1.750729719
+  },
+  {
+    "activity": "Cycling, <10 mph, leisure bicycling",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Cycling, >20 mph, racing",
+    "cal_per_lb": 3.294973528
+  },
+  {
+    "activity": "Cycling, 10-11.9 mph, light",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Cycling, 12-13.9 mph, moderate",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Cycling, 14-15.9 mph, vigorous",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Cycling, 16-19 mph, very fast, racing",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Unicycling",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Stationary cycling, very light",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Stationary cycling, light",
+    "cal_per_lb": 1.132625994
+  },
+  {
+    "activity": "Stationary cycling, moderate",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Stationary cycling, vigorous",
+    "cal_per_lb": 2.162347534
+  },
+  {
+    "activity": "Stationary cycling, very vigorous",
+    "cal_per_lb": 2.574642352
+  },
+  {
+    "activity": "Calisthenics, vigorous, pushups, situps�",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Calisthenics, light",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Circuit training, minimal rest",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Weight lifting, body building, vigorous",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Weight lifting, light workout",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Health club exercise",
+    "cal_per_lb": 1.132625994
+  },
+  {
+    "activity": "Stair machine",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Rowing machine, light",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Rowing machine, moderate",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Rowing machine, vigorous",
+    "cal_per_lb": 1.750729719
+  },
+  {
+    "activity": "Rowing machine, very vigorous",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Ski machine",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Aerobics, low impact",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Aerobics, high impact",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Aerobics, step aerobics",
+    "cal_per_lb": 1.750729719
+  },
+  {
+    "activity": "Aerobics, general",
+    "cal_per_lb": 1.338434901
+  },
+  {
+    "activity": "Jazzercise",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Stretching, hatha yoga",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Mild stretching",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Instructing aerobic class",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Water aerobics",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Ballet, twist, jazz, tap",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Ballroom dancing, slow",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Ballroom dancing, fast",
+    "cal_per_lb": 1.132625994
+  },
+  {
+    "activity": "Running, 5 mph (12 minute mile)",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Running, 5.2 mph (11.5 minute mile)",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Running, 6 mph (10 min mile)",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Running, 6.7 mph (9 min mile)",
+    "cal_per_lb": 2.265251988
+  },
+  {
+    "activity": "Running, 7 mph (8.5 min mile)",
+    "cal_per_lb": 2.368156442
+  },
+  {
+    "activity": "Running, 7.5mph (8 min mile)",
+    "cal_per_lb": 2.574642352
+  },
+  {
+    "activity": "Running, 8 mph (7.5 min mile)",
+    "cal_per_lb": 2.779774257
+  },
+  {
+    "activity": "Running, 8.6 mph (7 min mile)",
+    "cal_per_lb": 2.88267871
+  },
+  {
+    "activity": "Running, 9 mph (6.5 min mile)",
+    "cal_per_lb": 3.089164621
+  },
+  {
+    "activity": "Running, 10 mph (6 min mile)",
+    "cal_per_lb": 3.294973528
+  },
+  {
+    "activity": "Running, 10.9 mph (5.5 min mile)",
+    "cal_per_lb": 3.706591343
+  },
+  {
+    "activity": "Running, cross country",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Running, general",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Running, on a track, team practice",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Running, stairs, up",
+    "cal_per_lb": 3.089164621
+  },
+  {
+    "activity": "Track and field (shot, discus)",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Track and field (high jump, pole vault)",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Track and field (hurdles)",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Archery",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Badminton",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Basketball game, competitive",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Playing basketball, non game",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Basketball, officiating",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Basketball, shooting baskets",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Basketball, wheelchair",
+    "cal_per_lb": 1.338434901
+  },
+  {
+    "activity": "Running, training, pushing wheelchair",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Billiards",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Bowling",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Boxing, in ring",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Boxing, punching bag",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Boxing, sparring",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Coaching: football, basketball, soccer…",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Cricket (batting, bowling)",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Croquet",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Curling",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Darts (wall or lawn)",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Fencing",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Football, competitive",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Football, touch, flag, general",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Football or baseball, playing catch",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Frisbee playing, general",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Frisbee, ultimate frisbee",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Golf, general",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Golf, walking and carrying clubs",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Golf, driving range",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Golf, miniature golf",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Golf, walking and pulling clubs",
+    "cal_per_lb": 0.885519904
+  },
+  {
+    "activity": "Golf, using power cart",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Gymnastics",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Hacky sack",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Handball",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Handball, team",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Hockey, field hockey",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Hockey, ice hockey",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Riding a horse, general",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Horesback riding, saddling horse",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Horseback riding, grooming horse",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Horseback riding, trotting",
+    "cal_per_lb": 1.338434901
+  },
+  {
+    "activity": "Horseback riding, walking",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Horse racing, galloping",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Horse grooming, moderate",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Horseshoe pitching",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Jai alai",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Martial arts, judo, karate, jujitsu",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Martial arts, kick boxing",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Martial arts, tae kwan do",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Krav maga training",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Juggling",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Kickball",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Lacrosse",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Orienteering",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Playing paddleball",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Paddleball, competitive",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Polo",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Racquetball, competitive",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Playing racquetball",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Rock climbing, ascending rock",
+    "cal_per_lb": 2.265251988
+  },
+  {
+    "activity": "Rock climbing, rappelling",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Jumping rope, fast",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Jumping rope, moderate",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Jumping rope, slow",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Rugby",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Shuffleboard, lawn bowling",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Skateboarding",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Roller skating",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Roller blading, in-line skating",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Sky diving",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Soccer, competitive",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Playing soccer",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Softball or baseball",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Softball, officiating",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Softball, pitching",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Squash",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Table tennis, ping pong",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Tai chi",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Playing tennis",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Tennis, doubles",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Tennis, singles",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Trampoline",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Volleyball, competitive",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Playing volleyball",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Volleyball, beach",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Wrestling",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Wallyball",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Backpacking, Hiking with pack",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Carrying infant, level ground",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Carrying infant, upstairs",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Carrying 16 to 24 lbs, upstairs",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Carrying 25 to 49 lbs, upstairs",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Standing, playing with children, light",
+    "cal_per_lb": 0.576806543
+  },
+  {
+    "activity": "Walk/run, playing with children, moderate",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Walk/run, playing with children, vigorous",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Carrying small children",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Loading, unloading car",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Climbing hills, carrying up to 9 lbs",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Climbing hills, carrying 10 to 20 lb",
+    "cal_per_lb": 1.544920812
+  },
+  {
+    "activity": "Climbing hills, carrying 21 to 42 lb",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Climbing hills, carrying over 42 lb",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Walking downstairs",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Hiking, cross country",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Bird watching",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Marching, rapidly, military",
+    "cal_per_lb": 1.338434901
+  },
+  {
+    "activity": "Children's games, hopscotch, dodgeball",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Pushing stroller or walking with children",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Pushing a wheelchair",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Race walking",
+    "cal_per_lb": 1.338434901
+  },
+  {
+    "activity": "Rock climbing, mountain climbing",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Walking using crutches",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Walking the dog",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Walking, under 2.0 mph, very slow",
+    "cal_per_lb": 0.411617815
+  },
+  {
+    "activity": "Walking 2.0 mph, slow",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Walking 2.5 mph",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Walking 3.0 mph, moderate",
+    "cal_per_lb": 0.679710997
+  },
+  {
+    "activity": "Walking 3.5 mph, brisk pace",
+    "cal_per_lb": 0.782615451
+  },
+  {
+    "activity": "Walking 3.5 mph, uphill",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Walking 4.0 mph, very brisk",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Walking 4.5 mph",
+    "cal_per_lb": 1.297137719
+  },
+  {
+    "activity": "Walking 5.0 mph",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Boating, power, speed boat",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Canoeing, camping trip",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Canoeing, rowing, light",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Canoeing, rowing, moderate",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Canoeing, rowing, vigorous",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Crew, sculling, rowing, competition",
+    "cal_per_lb": 2.471060896
+  },
+  {
+    "activity": "Kayaking",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Paddle boat",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Windsurfing, sailing",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Sailing, competition",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Sailing, yachting, ocean sailing",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Skiing, water skiing",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Ski mobiling",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Skin diving, fast",
+    "cal_per_lb": 3.294973528
+  },
+  {
+    "activity": "Skin diving, moderate",
+    "cal_per_lb": 2.574642352
+  },
+  {
+    "activity": "Skin diving, scuba diving",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Snorkeling",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Surfing, body surfing or board surfing",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Whitewater rafting, kayaking, canoeing",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Swimming laps, freestyle, fast",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Swimming laps, freestyle, slow",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Swimming backstroke",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Swimming breaststroke",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Swimming butterfly",
+    "cal_per_lb": 2.265251988
+  },
+  {
+    "activity": "Swimming leisurely, not laps",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Swimming sidestroke",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Swimming synchronized",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Swimming, treading water, fast, vigorous",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Swimming, treading water, moderate",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Water aerobics, water calisthenics",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Water polo",
+    "cal_per_lb": 2.059443081
+  },
+  {
+    "activity": "Water volleyball",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Water jogging",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Diving, springboard or platform",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Ice skating, < 9 mph",
+    "cal_per_lb": 1.132625994
+  },
+  {
+    "activity": "Ice skating, average speed",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Ice skating, rapidly",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Speed skating, ice, competitive",
+    "cal_per_lb": 3.089164621
+  },
+  {
+    "activity": "Cross country snow skiing, slow",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Cross country skiing, moderate",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Cross country skiing, vigorous",
+    "cal_per_lb": 1.85295717
+  },
+  {
+    "activity": "Cross country skiing, racing",
+    "cal_per_lb": 2.88267871
+  },
+  {
+    "activity": "Cross country skiing, uphill",
+    "cal_per_lb": 3.397877982
+  },
+  {
+    "activity": "Snow skiing, downhill skiing, light",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Downhill snow skiing, moderate",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Downhill snow skiing, racing",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Sledding, tobagganing, luge",
+    "cal_per_lb": 1.441339355
+  },
+  {
+    "activity": "Snow shoeing",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Snowmobiling",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "General housework",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Cleaning gutters",
+    "cal_per_lb": 1.02972154
+  },
+  {
+    "activity": "Painting",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Sit, playing with animals",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Walk / run, playing with animals",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Bathing dog",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Mowing lawn, walk, power mower",
+    "cal_per_lb": 1.132625994
+  },
+  {
+    "activity": "Mowing lawn, riding mower",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Walking, snow blower",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Riding, snow blower",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Shoveling snow by hand",
+    "cal_per_lb": 1.234853445
+  },
+  {
+    "activity": "Raking lawn",
+    "cal_per_lb": 0.885519904
+  },
+  {
+    "activity": "Gardening, general",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Bagging grass, leaves",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Watering lawn or garden",
+    "cal_per_lb": 0.310067367
+  },
+  {
+    "activity": "Weeding, cultivating garden",
+    "cal_per_lb": 0.92749409
+  },
+  {
+    "activity": "Carpentry, general",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Carrying heavy loads",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "Carrying moderate loads upstairs",
+    "cal_per_lb": 1.647825266
+  },
+  {
+    "activity": "General cleaning",
+    "cal_per_lb": 0.721008179
+  },
+  {
+    "activity": "Cleaning, dusting",
+    "cal_per_lb": 0.515199272
+  },
+  {
+    "activity": "Taking out trash",
+    "cal_per_lb": 0.617426722
+  },
+  {
+    "activity": "Walking, pushing a wheelchair",
+    "cal_per_lb": 0.82323563
+  },
+  {
+    "activity": "Teach physical education,exercise class",
+    "cal_per_lb": 0.82323563
+  }
+]
