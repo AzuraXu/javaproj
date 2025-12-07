@@ -11,6 +11,7 @@ import java.nio.file.Path;
 import java.io.File;
 import java.util.Scanner;
 import java.util.List;
+import java.util.ArrayList;
 
 
 class exerciseItem{
@@ -38,8 +39,10 @@ public class Manager {
     public static File saveData = new File("savedata.txt");
     public static FileReader saveReader;
     public static FileWriter saveWriter;
+    public static ArrayList<item> itemList = new ArrayList<item>();
 
     public static Scanner userInput = new Scanner(System.in);
+    public static int userWeight;
 
 
 
@@ -97,8 +100,14 @@ public class Manager {
         if(created){
             initialSetup(); }
         else {
+            try{readFileToArray();}
+            catch (IOException e) {
+      System.out.println("An error occurred while reading save data");
+        throw new RuntimeException(e);
+    }
             System.out.println("Welcome back!");
         }
+
 
 
     while (true){
@@ -106,17 +115,173 @@ public class Manager {
         System.out.println("Welcome! Choose what to do next from the following options:\n");
         System.out.println("1: Edit starting data.");
         System.out.println("2: Add new item");
-        System.out.println("3: Edit existing item");
-        // System.out.println("4: Edit starting data.");
+        System.out.println("3: Edit or delete existing item");
+        System.out.println("4: See current goals");
+
         switch(readInt("Enter an integer to proceed.")) {
             case 1:
-
+                try {
+                    int newWeight = readInt("Enter your new weight (in lbs):");
+                editWeight(newWeight);
+                int newGoal = readInt("Enter your new daily calorie goal:");
+                editGoal(newGoal);
+                    
+                } catch (Exception e) {
+                  System.out.println("An error occurred while editing starting data");
+                throw new RuntimeException(e);
+                }
                 break;
             case 2:
+                System.out.println("What type of item would you like to add?");
+                System.out.println("1: Custom item");
+                System.out.println("2: Food item from database");
+                System.out.println("3: Exercise item from database");
+                switch(readInt("Enter an integer to proceed.")){
+                    case 1:
+                        boolean type = true;
+                        while(true){
+                        System.out.println("What type of item is this? (Enter 'true' for exercise, 'false' for food):");
+                        String answer = userInput.nextLine();
+                        try {  
+                         type = Boolean.parseBoolean(answer); 
+                         break;       
+                            }         
+                            catch(Exception e){  
+                        System.out.println("Invalid answer (not an integer). Please try again.");
+                                continue;
+                        }          
+                        }
+                        System.out.println("Enter the name of your custom item:");
+                        String itemName = userInput.nextLine();
+                        int itemCals = readInt("Enter the calorie amount of your custom item \n (Enter it as a negative number for exercise):");
+                        item newItem = new item(itemName, itemCals, type);
+                        itemList.add(newItem);
+                        System.out.println("Custom item added successfully.");
+                        break;
+                    case 2:
+                        System.out.println("Enter part of the name of the food item you wish to add:");
+                        String foodSearch = userInput.nextLine().toLowerCase();
+                        ArrayList<Integer> foodMatches = new ArrayList<Integer>();
+                        int displayIndex = 0;
+                        for (int i=0; i < rawFoodList.length; i++){
+                            if (rawFoodList[i].FoodItem.toLowerCase().contains(foodSearch)){
+                                foodMatches.add(i);
+                                System.out.println(String.valueOf(displayIndex)+": " + rawFoodList[i].FoodItem + " - " + String.valueOf(rawFoodList[i].Cals_per100grams) + " calories per 100 grams.");
+                                displayIndex += 1;
+                            }
+                        }
+                        if (foodMatches.size() == 0){
+                            System.out.println("No matches found. Returning to main menu.");
+                            break;
+                        }
+                        int foodChoice = readInt("Enter the number cooresponding to the food item you wish to add:");
+                        if (foodChoice < 0 || foodChoice >= foodMatches.size()){
+                            System.out.println("Invalid choice. Returning to main menu.");
+                        }
+                        else {
+                            int selectedIndex = foodMatches.get(foodChoice);
+                            int foodAmount = readInt("Enter the amount of this food item you consumed (in grams):");
+                            int calorieCount = Math.round(((rawFoodList[selectedIndex].Cals_per100grams * foodAmount) / 100));
+                            item selectedFood = new item(rawFoodList[selectedIndex].FoodItem, calorieCount, true);
+                            itemList.add(selectedFood);
+                            System.out.println("Food item added successfully.");
+                        }
+                        break;
+                    case 3:
+                        System.out.println("Enter part of the name of the exercise item you wish to add:");
+                        String exerciseSearch = userInput.nextLine().toLowerCase();
+                        ArrayList<Integer> exerciseMatches = new ArrayList<Integer>();
+                                int displayIndex2 = 0;
+
+                        for (int i=0; i < rawExList.length; i++){
+                            if (rawExList[i].activity.toLowerCase().contains(exerciseSearch)){
+                                exerciseMatches.add(i);
+                                System.out.println(String.valueOf(displayIndex2)+": " + rawExList[i].activity + " - " + String.valueOf((rawExList[i].cal_per_lb)*userWeight) + " calories burned per hour of exercise.");
+                                displayIndex2 += 1;
+                            }
+                        }
+                        if (exerciseMatches.size() == 0){
+                            System.out.println("No matches found. Returning to main menu.");
+                            break;
+                        }
+                        int exerciseChoice = readInt("Enter the number cooresponding to the exercise item you wish to add:");
+                        if (exerciseChoice < 0 || exerciseChoice >= exerciseMatches.size()){
+                            System.out.println("Invalid choice. Returning to main menu.");
+                        }
+                        else {
+                            int selectedIndex = exerciseMatches.get(exerciseChoice);
+                            int exerciseDuration = readInt("Enter the duration of this exercise (in minutes):");
+                            int calsLost = Math.round((float)(-1 * rawExList[selectedIndex].cal_per_lb *userWeight * (exerciseDuration / 60)));
+                            item selectedexercise = new item(rawExList[selectedIndex].activity, calsLost, true);
+                            itemList.add(selectedexercise);
+                            System.out.println("exercise item added successfully.");
+                        }
+                        break;
+                    
+                    default:
+                        System.out.println("Invalid input (outside of range). Enter only the number that cooresponds to one listed above. Returning to main menu.");
+                        break;
+                }
+
                 break;
             case 3:
+                if (itemList.size() == 0){
+                    System.out.println("You have no existing items to edit. Returning to main menu.");
+                    break;
+                }
+                System.out.println("Here are your existing items:");
+                for (int i=0; i < itemList.size(); i++){
+                    System.out.println(String.valueOf(i)+": " + itemList.get(i).getName());
+                }
+                int choice = readInt("Enter the number cooresponding to the item you wish to edit:");
+                if (choice < 0 || choice >= itemList.size()){
+                    System.out.println("Invalid choice. Returning to main menu.");
+                }
+                else {
+                    item selectedItem = itemList.get(choice);
+                    System.out.println("You have selected: " + selectedItem.getName());
+                    switch(readInt("What would you like to do with this item?\n1: Delete item\n2: Edit item details")){
+                        case 1:
+                            deleteItem(choice);
+                            System.out.println("Item deleted successfully.");
+                            break;
+                        case 2:
+                    System.out.println("Current name: " + selectedItem.getName());
+                    String newName = userInput.nextLine();
+                    System.out.println("Current amount: " + selectedItem.getAmount());
+                    int newAmount = readInt("Enter new amount:");
+                    editItem(choice, newName, newAmount);
+                    System.out.println("Item updated successfully.");
+                    break;
+                    default:
+                    System.out.println("Invalid input (outside of range). Returning to main menu.");
+                    break;
+                }
+            }
+                
+
                 break;
-            
+            case 4:
+                        try {
+                            String[] currentData = readFileToArray();
+                            System.out.println("Your current daily calorie goal is: " + currentData[0] + " calories.");
+                            int totalCalories = 0;
+                            for (item it : itemList){
+                                totalCalories += it.getAmount();
+                            }
+                            System.out.println("Your current calorie intake today is: " + totalCalories + " calories.");
+                            int calDiff = Integer.parseInt(currentData[0]) - totalCalories;
+                            if (calDiff >= 0){
+                                System.out.println("That's " + calDiff + " calories below your goal for the day.");
+                            }
+                            else {
+                                System.out.println("That's " + (-1 * calDiff) + " calories above your goal for the day.");
+                            }   
+                            System.out.println("Your current weight is: " + userWeight + " lbs.");
+                        } catch (IOException e) {
+                            System.out.println("An error occurred while reading save data");
+                            throw new RuntimeException(e);}
+                        break;
             default:
             System.out.println("Invalid input (outside of range). Enter only the number that cooresponds to one listed above. Try again:");
 
@@ -161,9 +326,18 @@ public class Manager {
     public static void editWeight(int x) throws IOException {
         String[] current = readFileToArray();
         current[1] = String.valueOf(x);
+        userWeight = x;
         try (FileWriter overwriter = new FileWriter("savedata.txt")) {
             overwriter.write(current[0] + "\n" + current[1]);
         }
+    }
+    public static void deleteItem(int index){
+        itemList.remove(index);
+    }
+    public static void editItem(int index, String newName, int newAmount){
+        item selectedItem = itemList.get(index);
+        selectedItem.setName(newName);
+        selectedItem.setAmount(newAmount);
     }
     public static int readInt(String prompt){
         System.out.println(prompt);
@@ -181,6 +355,7 @@ public class Manager {
     }
     public static String[] readFileToArray() throws IOException {
         List<String> lines = Files.readAllLines(Path.of("savedata.txt"));
+    userWeight = Integer.parseInt(lines.get(1));
     return lines.toArray(new String[0]);
 }
 

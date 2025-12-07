@@ -6,9 +6,8 @@ public class item {
     private String name;
 
 
-    public item(String activityName, int calAmount) {
-// If only constructed with two, we know it's an exercise
-        itemType = true;
+    public item(String activityName, int calAmount, boolean itemType){ 
+        this.itemType = itemType;
         this.calAmount=calAmount;
         name = activityName;
 
@@ -16,6 +15,7 @@ public class item {
     }
 
     public boolean getType(){
+        // true for food, false for exercise
         return itemType;
     }
     public int getAmount(){
@@ -23,5 +23,11 @@ public class item {
     }
     public String getName(){
         return name;
+    }
+    public void setAmount(int newAmount){
+        calAmount = newAmount;
+    }
+    public void setName(String newName){
+        name = newName;
     }
 }
