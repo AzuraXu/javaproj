@@ -129,15 +129,20 @@ public class Manager {
     }
 
     public static void initialSetup(){
-        try {saveWriter.write("200\n2000"); // placeholder values
-        int weight = readInt("Enter your weight (in lbs):");
-        int targetWeight = readInt("What would you like your final weight to be? (also in lbs): ");
-        editWeight(weight);
-        int weeks = readInt("Over how many weeks would you like to lose this weight?");
-        int finalGoal = 2300 + (targetWeight - weight * 7700) / (7 * weeks);
-        System.out.println("Your final calculated daily weight goal is: " + finalGoal +" calories.");
-        System.out.println("You may edit this at any time.");
-        editGoal(finalGoal);}
+        try {
+            // write initial placeholder and close immediately so reads see the content
+            try (FileWriter initial = new FileWriter("savedata.txt")) {
+                initial.write("200\n2000"); // placeholder values
+            }
+            int weight = readInt("Enter your weight (in lbs):");
+            int targetWeight = readInt("What would you like your final weight to be? (also in lbs): ");
+            editWeight(weight);
+            int weeks = readInt("Over how many weeks would you like to lose this weight?");
+            int finalGoal = 2300 + (((targetWeight - weight) * 3500) / (7 * weeks));
+            System.out.println("Your final calculated daily weight goal is: " + finalGoal +" calories.");
+            System.out.println("You may edit this at any time.");
+            editGoal(finalGoal);
+        }
         catch (IOException e) {
       System.out.println("An error occurred during initial setup");
         throw new RuntimeException(e);
@@ -176,7 +181,6 @@ public class Manager {
     }
     public static String[] readFileToArray() throws IOException {
         List<String> lines = Files.readAllLines(Path.of("savedata.txt"));
-        System.err.println(lines);
     return lines.toArray(new String[0]);
 }
 
